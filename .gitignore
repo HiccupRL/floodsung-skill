@@ -8,3 +8,9 @@ __pycache__/
 .venv/
 .vscode/
 .idea/
+
+# Generated corpus can be large; commit intentionally after rights review.
+data/corpus/*.json
+data/corpus/*.md
+data/summary.json
+!data/corpus/.gitkeep
