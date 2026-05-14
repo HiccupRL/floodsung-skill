@@ -182,7 +182,7 @@ def scrape_mia(c: Client, src: dict, max_pages: int) -> list[dict]:
     return out
 
 
-def dump(items: list[dict], out: Path, cfg: dict) -> None:
+def dump(items: list[dict], out: Path, cfg: dict, source_errors: list[dict] | None = None) -> None:
     out.mkdir(parents=True, exist_ok=True)
     by = {}
     for it in items:
@@ -199,6 +199,7 @@ def dump(items: list[dict], out: Path, cfg: dict) -> None:
     summary = {"generated_at": now(), "total_items": len(items),
                "counts_by_collection": {k: len(v) for k, v in sorted(by.items())},
                "source_ids": [s.get("id") for s in cfg.get("sources", []) if s.get("enabled", True)],
+               "source_errors": source_errors or [],
                "note": "Each item preserves source_url, license_note, and risk_note. Review rights before redistribution."}
     (out.parent / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -219,14 +220,23 @@ def main() -> None:
     handlers = {"wikimedia_search": scrape_wikimedia, "mia_index": scrape_mia}
     selected = set(args.source or [])
     items = []
+    source_errors = []
     for src in cfg.get("sources", []):
         if not src.get("enabled", True) or (selected and src.get("id") not in selected):
             continue
         print(f"\n=== {src['id']} ===")
-        items += handlers[src["type"]](c, src, args.max_pages_per_source)
+        try:
+            items += handlers[src["type"]](c, src, args.max_pages_per_source)
+        except Exception as e:
+            error = {"source_id": src.get("id", ""), "error": str(e)}
+            source_errors.append(error)
+            print(f"[error] {error['source_id']}: {error['error']}")
     uniq = {it["id"]: it for it in items}
-    dump(list(uniq.values()), args.out, cfg)
-    print(f"DONE: {len(uniq)} items -> {args.out}")
+    dump(list(uniq.values()), args.out, cfg, source_errors)
+    if source_errors:
+        print(f"DONE_WITH_ERRORS: {len(uniq)} items -> {args.out}; errors={len(source_errors)}")
+    else:
+        print(f"DONE: {len(uniq)} items -> {args.out}")
 
 
 if __name__ == "__main__":

@@ -1,10 +1,23 @@
 {
-  "user": "flood-sung",
-  "counts": {
-    "articles": 152,
-    "pins": 178,
-    "answers": 236
+  "generated_at": "2026-05-14T18:39:30+00:00",
+  "total_items": 200,
+  "counts_by_collection": {
+    "maozedong": 200
   },
-  "scraped_at": "2026-04-21 11:35:18",
-  "metabot_excluded": 18
+  "source_ids": [
+    "maozedong_marxists_cn",
+    "wang_yangming_wikisource",
+    "zeng_guofan_wikisource"
+  ],
+  "source_errors": [
+    {
+      "source_id": "wang_yangming_wikisource",
+      "error": "robots.txt disallows https://zh.wikisource.org/w/api.php"
+    },
+    {
+      "source_id": "zeng_guofan_wikisource",
+      "error": "robots.txt disallows https://zh.wikisource.org/w/api.php"
+    }
+  ],
+  "note": "Each item preserves source_url, license_note, and risk_note. Review rights before redistribution."
 }

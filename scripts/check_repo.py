@@ -23,7 +23,21 @@ LEGACY_MARKERS = [
     "XVI Robotics",
     "Humanoid Foundation Model",
 ]
-SKIP_DIRS = {".git", ".venv", "__pycache__", "data/corpus"}
+SKIP_DIRS = {".git", ".venv", "__pycache__"}
+CHECK_PATH_PREFIXES = {
+    "SKILL.md",
+    "README.md",
+    "config/",
+    "data/corpus/",
+    "references/core_concepts.md",
+    "references/quote_index.md",
+    "references/reading_workflow.md",
+    "references/search_corpus.sh",
+    "references/source_index.md",
+    "scripts/build_references.py",
+    "scripts/check_repo.py",
+    "scripts/scraper.py",
+}
 
 
 def iter_text_files() -> list[Path]:
@@ -33,6 +47,9 @@ def iter_text_files() -> list[Path]:
             continue
         rel = path.relative_to(ROOT)
         if any(part in SKIP_DIRS for part in rel.parts):
+            continue
+        rel_posix = rel.as_posix()
+        if not any(rel_posix == prefix.rstrip("/") or rel_posix.startswith(prefix) for prefix in CHECK_PATH_PREFIXES):
             continue
         if path.name == "check_repo.py":
             continue
