@@ -1,0 +1,95 @@
+# Public-source allowlist for chinese-thought-corpus-skill.
+# The scraper only reads sources declared here. Keep source/license metadata.
+
+defaults:
+  user_agent: "chinese-thought-corpus-skill/0.1"
+  sleep_seconds: 0.8
+  timeout_seconds: 30
+  obey_robots_txt: true
+
+sources:
+  - id: maozedong_marxists_cn
+    enabled: true
+    group: "毛泽东著作"
+    collection: "maozedong"
+    author: "毛泽东"
+    type: "mia_index"
+    index_urls:
+      - "https://www.marxists.org/chinese/maozedong/index.htm"
+    allowed_prefixes:
+      - "https://www.marxists.org/chinese/maozedong/"
+    include_url_regex:
+      - "maozedong"
+      - "Mao"
+      - "mx"
+      - "index"
+    exclude_url_regex:
+      - "\\.pdf$"
+      - "\\.jpg$"
+      - "\\.png$"
+      - "mailto:"
+      - "#"
+    title_include_keywords:
+      - "毛泽东"
+      - "毛澤東"
+      - "实践论"
+      - "實踐論"
+      - "矛盾论"
+      - "矛盾論"
+      - "持久战"
+      - "持久戰"
+      - "选集"
+      - "選集"
+    license_note: "Marxists Internet Archive states its archive content is free and is public domain, GFDL, or used with permission. Preserve attribution and source URL."
+    risk_note: "Mao Zedong texts may have jurisdiction-dependent copyright status; review before redistribution, especially for full modern editions."
+
+  - id: wang_yangming_wikisource
+    enabled: true
+    group: "王阳明心学"
+    collection: "wang_yangming"
+    author: "王守仁"
+    type: "wikimedia_search"
+    api_url: "https://zh.wikisource.org/w/api.php"
+    search_terms:
+      - "傳習錄"
+      - "传习录"
+      - "王陽明"
+      - "王阳明"
+      - "王文成公全書"
+      - "陽明先生文錄"
+    max_results_per_term: 20
+    title_include_keywords:
+      - "傳習錄"
+      - "传习录"
+      - "王陽明"
+      - "王阳明"
+      - "王文成"
+      - "陽明"
+    license_note: "Wikisource texts are free of copyright or available under Creative Commons Attribution/Share-Alike; preserve page URL and attribution metadata."
+    risk_note: "Prefer original public-domain text. Avoid copying modern copyrighted annotations or translations."
+
+  - id: zeng_guofan_wikisource
+    enabled: true
+    group: "曾国藩家书"
+    collection: "zeng_guofan"
+    author: "曾国藩"
+    type: "wikimedia_search"
+    api_url: "https://zh.wikisource.org/w/api.php"
+    search_terms:
+      - "曾國藩家書"
+      - "曾国藩家书"
+      - "曾文正公家書"
+      - "曾文正公书札"
+      - "曾國藩 書信"
+      - "曾国藩 书信"
+    max_results_per_term: 25
+    title_include_keywords:
+      - "曾國藩"
+      - "曾国藩"
+      - "曾文正"
+      - "家書"
+      - "家书"
+      - "書札"
+      - "书札"
+    license_note: "Wikisource texts are free of copyright or available under Creative Commons Attribution/Share-Alike; preserve page URL and attribution metadata."
+    risk_note: "Use public-domain originals; do not import modern edited/annotated editions unless their license is explicit."
