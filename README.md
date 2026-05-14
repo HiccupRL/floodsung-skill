@@ -18,7 +18,7 @@
 | `scripts/build_references.py` | 从语料生成概念索引、来源索引、摘录索引和阅读流程 |
 | `scripts/check_repo.py` | 检查仓库是否仍残留旧 skill 关键词、JSON 是否有效、关键文件是否存在 |
 | `references/` | 自动或半自动生成的阅读索引 |
-| `data/corpus/` | 抓取后的结构化语料；默认不提交大体量抓取产物 |
+| `data/corpus/` | 抓取后的结构化语料；已提交一小批 seed corpus 方便先验证功能 |
 
 ## 安装
 
@@ -28,7 +28,19 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 抓取语料
+## 快速验证
+
+仓库已经包含一小批 seed corpus，可先直接测试：
+
+```bash
+bash references/search_corpus.sh "知行合一"
+bash references/search_corpus.sh "调查"
+bash references/search_corpus.sh "立志"
+python scripts/build_references.py --data data/corpus --out references
+python scripts/check_repo.py
+```
+
+## 抓取更多语料
 
 ```bash
 python scripts/scraper.py \
@@ -79,6 +91,7 @@ python scripts/check_repo.py
 - 古籍与公版材料优先使用 Wikisource 等开放来源。
 - Marxists Internet Archive 自述为非营利公共图书馆，其内容免费，并标注为公共领域、GFDL 或经权利人许可；脚本仍会记录风险说明。
 - 毛泽东相关文本在不同法域可能存在版权差异；不要从随机转载站批量搬运，也不要移除来源与许可信息。
+- seed corpus 主要用于功能验证；正式研究或公开分发前，请重新运行抓取脚本并核对具体版本、来源与许可。
 
 ## Claude Code 使用方式
 
@@ -97,3 +110,7 @@ cp -r references ~/.claude/skills/chinese-thought-corpus/
 ## 重要限制
 
 这个仓库优先提供可复现的抓取与索引流程，而不是把版权不明的大体量文本直接塞进 Git。运行抓取脚本前，请确认你的使用场景、所在地法律和目标来源许可相容。
+
+## 特别鸣谢
+
+本项目的组织方式参考并改造自 [floodsung/floodsung-skill](https://github.com/floodsung/floodsung-skill)。感谢原项目提供了一个清晰的 `SKILL.md + references/ + data/ + scripts/` 组织范式。
