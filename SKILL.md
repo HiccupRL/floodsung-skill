@@ -1,10 +1,10 @@
 ---
-name: chinese-thought-corpus
+name: dao-skill
 description: |
   面向毛泽东选集/毛泽东著作、王阳明心学/传习录、曾国藩家书三类中文思想材料的语料检索、对照阅读、观点归纳与写作辅助 skill。当用户要求比较毛泽东、王阳明、曾国藩，或要求基于这些原典做读书笔记、主题索引、摘录、研究备忘录、文章草稿时触发。
 ---
 
-# /chinese-thought-corpus — 中文思想语料库阅读 Skill
+# /dao-skill — 中文思想语料库阅读 Skill
 
 这个 skill 的目标不是人格模仿，而是把三类中文思想材料组织成可检索、可引用、可继续扩充的 corpus：
 

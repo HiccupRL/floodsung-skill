@@ -257,7 +257,7 @@ def main() -> None:
     args = ap.parse_args()
     cfg = yaml.safe_load(args.config.read_text(encoding="utf-8"))
     d = cfg.get("defaults", {})
-    c = Client(d.get("user_agent", "chinese-thought-corpus-skill/0.1"),
+    c = Client(d.get("user_agent", "dao-skill/0.1"),
                args.sleep if args.sleep is not None else float(d.get("sleep_seconds", 0.8)),
                int(d.get("timeout_seconds", 30)), bool(d.get("obey_robots_txt", True)))
     handlers = {"wikimedia_search": scrape_wikimedia, "mia_index": scrape_mia}

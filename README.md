@@ -105,8 +105,20 @@ python scripts/build_references.py --data data/corpus --out references
 
 本语料库是为现代 AI Agent 原生设计的。您可以将其接入大模型的上下文环境（如 Claude Code 或 Trae），并提出具有理论深度的研究课题。例如：
 
+```bash
+mkdir -p ~/.claude/skills/dao-skill
+cp SKILL.md ~/.claude/skills/dao-skill/
+cp -r references ~/.claude/skills/dao-skill/
+```
+
 - *“请基于库中语料，对比《实践论》的‘实践第一’与王阳明的‘事上磨炼’在方法论上的异同。”*
 - *“在曾国藩家书和毛泽东著作中，分别是如何论述‘主观能动性’的？请给出原典摘录和理论分析。”*
 - *“提取毛泽东、王阳明、曾国藩三类材料中关于‘知行统一’的核心论述，并为我生成一份研究备忘录。”*
 
 思想不会因时间的流逝而褪色，通过高质量语料与 AI 的结合，让我们在重温经典中获得指引现实的力量。
+
+---
+
+## 致谢
+
+特别感谢 [floodsung-skill](https://github.com/floodsung/floodsung-skill) 项目提供的详细参考和启发，其在 Skill 构建机制上的探索为本语料库的架构组织提供了有益的借鉴。

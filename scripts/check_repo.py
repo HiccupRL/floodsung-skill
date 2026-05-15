@@ -12,16 +12,14 @@ REQUIRED = [
     "README.md",
     "config/sources.yaml",
     "scripts/scraper.py",
-    "scripts/build_references.py",
+    "scripts/build_references.py"
 ]
 LEGACY_MARKERS = [
-    "Flood Sung",
-    "flood-sung",
-    "floodsung",
     "Zhihu scraper",
     "ZHIHU_COOKIE",
     "XVI Robotics",
     "Humanoid Foundation Model",
+    "xvi-robotics"
 ]
 SKIP_DIRS = {".git", ".venv", "__pycache__"}
 CHECK_PATH_PREFIXES = {
