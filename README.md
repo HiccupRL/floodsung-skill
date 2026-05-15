@@ -54,12 +54,13 @@ pip install -r requirements.txt
 
 ### 2. 检索体验
 
-仓库内已内置抓取并清洗完成的高质量语料（总计数百篇），您可以直接通过命令行工具进行快速检索体验：
+仓库内已内置抓取并清洗完成的高质量语料（总计数百篇），您可以直接通过命令行工具进行快速智能检索体验（支持多关键词联合搜索）：
 
 ```bash
-bash references/search_corpus.sh "知行合一"
-bash references/search_corpus.sh "调查研究"
-bash references/search_corpus.sh "修身"
+# 搜索同时包含多个相关概念的段落
+bash references/search_corpus.sh "知行合一" "事上磨炼"
+bash references/search_corpus.sh "调查研究" "实践"
+bash references/search_corpus.sh "修身" "慎独"
 ```
 
 ---
@@ -103,15 +104,22 @@ python scripts/build_references.py --data data/corpus --out references
 
 ## AI 时代下的使用范式 (Codex / Claude Code / Trae)
 
-本语料库是为现代 AI Agent 原生设计的。整个仓库根目录即为一个完整的 Skill（名称为 `dao-skill`）。您可以直接将其通过 Git 克隆到 Agent 的 skill 目录下，并提出具有理论深度的研究课题。例如：
+本语料库是为现代 AI Agent 原生设计的。整个仓库根目录即为一个完整的 Skill（名称为 `dao-skill`）。为了避免路径冲突，建议直接将本仓库克隆或更新到 Agent 的指定 skill 目录下（例如 `/root/.codex/skills/dao-skill`）。
+
+您可以使用以下脚本进行自动化安装与更新：
 
 ```bash
-# 首次安装：直接将整个仓库克隆为 dao-skill
-git clone https://github.com/HiccupRL/Dao-Skill.git ~/.codex/skills/dao-skill
+#!/bin/bash
+SKILL_DIR="/root/.codex/skills/dao-skill"
 
-# 后续更新：进入目录拉取最新语料
-cd ~/.codex/skills/dao-skill
-git pull
+if [ -d "$SKILL_DIR" ]; then
+  echo "检测到 dao-skill 已存在，正在拉取最新语料..."
+  cd "$SKILL_DIR" && git pull
+else
+  echo "正在克隆 dao-skill..."
+  mkdir -p "$(dirname "$SKILL_DIR")"
+  git clone https://github.com/HiccupRL/Dao-Skill.git "$SKILL_DIR"
+fi
 ```
 
 - *“请基于库中语料，对比《实践论》的‘实践第一’与王阳明的‘事上磨炼’在方法论上的异同。”*
