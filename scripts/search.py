@@ -15,7 +15,7 @@ def main():
     parser = argparse.ArgumentParser(description="Smart search for Dao-Skill corpus")
     parser.add_argument("keywords", nargs="+", help="Keywords to search for (supports multiple)")
     parser.add_argument("--mode", choices=["and", "or"], default="or", help="Search mode: 'or' (match any) or 'and' (match all). Default is 'or'.")
-    parser.add_argument("--limit", type=int, default=10, help="Max results to show")
+    parser.add_argument("--limit", type=int, default=15, help="Max results to show")
     args = parser.parse_args()
 
     if not CORPUS_FILE.exists():
@@ -46,8 +46,8 @@ def main():
             for kw in args.keywords:
                 idx = text.lower().find(kw.lower())
                 if idx != -1:
-                    start = max(0, idx - 40)
-                    end = min(len(text), idx + 120)
+                    start = max(0, idx - 150)
+                    end = min(len(text), idx + 350)
                     snippet = text[start:end].replace('\n', ' ')
                     snippet = f"...{snippet}..."
                     break
