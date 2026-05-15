@@ -43,7 +43,6 @@ bash references/search_corpus.sh "勤俭"
 ```bash
 python scripts/scraper.py --config config/sources.yaml --out data/corpus
 python scripts/build_references.py --data data/corpus --out references
-python scripts/check_repo.py
 ```
 
 ### 2. 区分“原文”“解释”“我的综合”
