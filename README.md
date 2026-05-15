@@ -106,6 +106,6 @@ cp -r references ~/.claude/skills/chinese-thought-corpus/
 - 给我做一份曾国藩家书里关于勤俭的主题笔记。
 - 从毛泽东、王阳明、曾国藩三类材料里抽取一个关于行动力的方法论。
 
-## 重要限制
+## 重要声明
 
 这个仓库优先提供可复现的抓取与索引流程，而不是把版权不明的大体量文本直接塞进 Git。运行抓取脚本前，请确认你的使用场景、所在地法律和目标来源许可相容。特别感谢 https://github.com/floodsung/floodsung-skill 提供了详细的参考和启发。
