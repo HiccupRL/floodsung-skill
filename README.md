@@ -101,14 +101,17 @@ python scripts/build_references.py --data data/corpus --out references
 
 ---
 
-## AI 时代下的使用范式 (Claude Code / Trae)
+## AI 时代下的使用范式 (Codex / Claude Code / Trae)
 
-本语料库是为现代 AI Agent 原生设计的。您可以将其接入大模型的上下文环境（如 Claude Code 或 Trae），并提出具有理论深度的研究课题。例如：
+本语料库是为现代 AI Agent 原生设计的。整个仓库根目录即为一个完整的 Skill（名称为 `dao-skill`）。您可以直接将其通过 Git 克隆到 Agent 的 skill 目录下，并提出具有理论深度的研究课题。例如：
 
 ```bash
-mkdir -p ~/.claude/skills/dao-skill
-cp SKILL.md ~/.claude/skills/dao-skill/
-cp -r references ~/.claude/skills/dao-skill/
+# 首次安装：直接将整个仓库克隆为 dao-skill
+git clone https://github.com/HiccupRL/Dao-Skill.git ~/.codex/skills/dao-skill
+
+# 后续更新：进入目录拉取最新语料
+cd ~/.codex/skills/dao-skill
+git pull
 ```
 
 - *“请基于库中语料，对比《实践论》的‘实践第一’与王阳明的‘事上磨炼’在方法论上的异同。”*
