@@ -1,5 +1,7 @@
 # Chinese Thought Corpus (Dao-Skill)
 
+![Dao-Skill cover: ink-wash mountains, bamboo, circle, and seal marks](assets/dao-skill-cover.png)
+
 **“马克思主义基本原理同中国具体实际相结合、同中华优秀传统文化相结合”**——这是新时代中国特色社会主义思想的深刻命题，也是我们构建此知识库的初衷与内核。
 
 本语料库（Chinese Thought Corpus）是一个高度结构化、可追溯、可检索的思想级知识库技能 (Dao Skill)。我们不仅希望它是一个简单的“电子书堆填区”，更希望它成为一座跨越时空、连接马克思主义辩证法与中华优秀传统文化的“思想桥梁”。
