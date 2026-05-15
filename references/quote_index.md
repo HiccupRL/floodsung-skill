@@ -3,1202 +3,1202 @@
 短摘录用于定位原文；正式引用前请回到 source_url 核对上下文。
 
 
-## 《毛泽东集》（共十卷）及《补卷》（共九卷＋著作提表）PDF电子书及目录
+## 卷上·徐爱录第一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/collect/index.htm
-- excerpt: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- …
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_6c32157238e1.aspx
+- excerpt: 先生于大学格物诸说，悉以旧本为正，盖先儒所谓误本者也。爱始闻而骇，既而疑，已而殚精竭思。参互错综，以质于先生，然后知先生之说，若水之寒，若火之热，断断乎百世以俟圣人而不惑者也。先生明睿天授，然和乐坦易，不事边幅。人见其少时豪迈不羁，又尝泛滥于词章，出入二氏之学。骤闻是说，皆目以为立异好奇，漫不省究。不知先生居夷三载，处困养静精一之功，固已超入圣域，粹然大中至正之归矣。爱朝夕炙门下，但见先生之道，即之若易，而仰之愈高。见之若粗，而探之愈精…
 
-## 1968年武汉版《毛泽东思想万岁》
+## 卷上·门人陆澄录第二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/1968/index.htm
-- excerpt: | | | | | | --- | --- | --- | --- | | [中文马克思主义文库](../../index.html) -> [毛泽东](../index.htm) -> 1968年汉版《毛泽东思想万岁》 --- 1968年武汉版《毛泽东思想万岁》 | | | | | --- | --- | --- | | **说明**：文革初期武汉大学哲学系教师王晁星收集，“钢二司武汉大学总部”印刷和发行的“内部资料”，共五卷，十六开…
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_c16ac6c261fc.aspx
+- excerpt: 〔1〕陆澄问：“主一之功，如读书，则一心在读书上。接客，则一心在接客上。可以为主一乎”？先生曰：“好色则一心在好色上。好货则一心在好货上。可以为主一乎？是所谓逐物。非主一也。主一是专主一个天理”。
 
-## 中国社会各阶级的分析（一九二五年十二月一日）
+## 卷上·门人薛侃录第三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 相关链接：[中国社会各阶级的分析（《毛泽东集》版）](collect/01-033.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_afc5adce4d79.aspx
+- excerpt: 〔1〕侃问：“持志如心痛。一心在痛，人安有工夫说闲语，管闲事”？先生曰：“初学工夫如此用亦好。但要使知‘出入无时，莫知其乡’。心之神明，原是如此。工夫方有着落。若只死死守着，恐于工夫上又发病”。
 
-## 湖南农民运动考察报告（一九二七年三月）
+## 卷中·钱德洪序第四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192703.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 相关链接：[我与《向导》周刊](../zhengchaolin/mia-chinese-zhengchaolin-199301.htm)（郑超麟，1993.1）
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_a4b352e45c66.aspx
+- excerpt: 德洪曰：昔南元善刻《传习录》于越，凡二册。下册摘录之。先师手书，凡八篇。其答徐成之二书，吾师自谓“天下是朱非陆，论定既久，一旦反之为难；二书姑为调停两可之说，使人自思得之。”故元善录为下册之首者，意亦以是欤？今朱、陆之辨明于天下久矣；洪刻先师文录，置二书于外集者，示未全也，故今不复录。其余指知，行之本体，莫详于答人论学与答周道通、陆清伯、欧阳崇一四书；而谓格物为学者用力日可见之地，莫详于答罗整庵一书。平生冒天下之非诋，推陷万死，一生遑遑…
 
-## 中国的红色政权为什么能够存在？（一九二八年十月五日）
+## 卷中·答顾东桥书第五第五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281005.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_a189f382532b.aspx
+- excerpt: 〔1〕来书云：“近时学者务外遗内，博而寡要，故先生特倡‘诚意’一义，针砭膏肓，诚大惠也“吾子洞见时弊如此矣，亦将同以救之乎？然则鄙人之心，吾子固已一句道尽，复何言哉！复何言哉！若“诚意”之说，自是圣门教人用功第一义：但近世学者乃作第二义看，故稍与提掇紧要出来，非鄙人所能特倡也。
 
-## 井冈山的斗争（一九二八年十一月二十五日）
+## 卷中·答周道通书第六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19281125.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_ea46bd65535a.aspx
+- excerpt: 〔1〕吴、曾两生至，备道道通恳切为道之意，殊慰相念。若道通真可谓笃信好学者矣。忧病中会不能与两生细论，然两生亦自有志向、肯用功者，，每见辄觉有进，在区区诚不能无负于两生之远来，在两生则亦庶几无负其远来之意矣。临别以此册致道通意，请书数语。荒愦无可言者，辄以道通来书中所问数节，略下转语奉酬。草草殊不详细，两生当亦自能口悉也。来书云：用工夫只是“立志”，近来于先生诲言时时体验，愈益明白。然于朋友不能一时相离。若得朋友讲习，则此志才精健阔大，…
 
-## 关于纠正党内的错误思想（一九二九年十二月）
+## 卷中·答陆原静书第七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-192912.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_da1c2e767341.aspx
+- excerpt: 〔1〕来书云：“下手工夫，觉此心无时宁静，妄心固动也，照心亦动也；心既恒动，则无刻暂停也”。是有意于求宁静，是以愈不宁静耳。夫妄心则动也，照心非动也；恒照则恒动恒静，天地之所以恒久而不已也；照心固照也，妄心亦照也。其为物不贰，则其生物不息，有刻暂停，则息矣，非至诚无息之学矣。
 
-## 星星之火，可以燎原（一九三○年一月五日）
+## 卷中·答欧阳崇一第八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19300105.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 相关链接：未删减版[《时局估量和红军行动问题》（1930年1月5日）](mia-chinese-mao-19300105.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_489d29ab9fd6.aspx
+- excerpt: 〔1〕崇一来书云：“师云：“德性之良知，非由于闻见，若曰多择其善者而从之，多见而识之”，则是专求之见闻之末，而已落在第二义。”窃意良知虽不由见闻而有，然学者之知，未常不由见闻而发：滞于见闻固非，而见闻亦良知之用也；今曰“落在第二义”，恐为专以见闻为学者而言，若致其良知而求之见闻，似亦知，行合一之功矣：如何？”良知不由见闻而有，而见闻莫非良知之用；故良知不滞于见闻，而亦不离于见闻。孔子云：“吾有知乎哉？无知也。”良知之外，别无知矣；故“致…
 
-## 时局估量和红军行动问题（毛泽东，1930年1月5日）（《星星之火，可以燎原》之未删减版）
+## 卷中·答罗整庵少宰书第九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19300105.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 相关链接：[《星星之火，可以燎原》](marxist.org-chinese-mao-19300105.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_9192ecedb2ec.aspx
+- excerpt: 〔1〕某顿首启：昨承教及《大学》，拨舟匆匆，未能奉答。晓来江行稍暇，复取手教而读之。恐至赣后人事复纷沓，先具其略以请。来教云；“见道固难，而体道尤难。道诚未易明，而学诚不可不讲：恐未可安于所见而遂以为极则也。”幸甚幸甚！何以得闻斯言乎？其敢自以为极则而安之乎？正思就天下之道以讲明之耳。而数年以来，闻其说而非笑之者有矣，诟訾之者有矣，置之不足较量辨议之者有矣，其肯遂以教我乎？其肯遂以教我，而反复晓谕，恻然惟恐不及救正之乎？然则天下之爱我者…
 
-## 反对本本主义（一九三○年五月）
+## 卷中·答聂文蔚第十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193005.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_78a1494d8c37.aspx
+- excerpt: 〔1〕春闲远劳迂途，枉顾问证，惓倦此情，何可当也！已期二三同志，更处静地，扳留旬日，少效其鄙见，以求切劘之益：而公期俗绊，势有不能，别去极怏怏，如有所失。忽承笺惠，反复千余言，读之无甚浣慰，中间推许太过，盖亦奖掖之盛心，而规砺真切，思欲纳之于贤圣之域，又托诸崇一以致其勤勤恳恳之怀，此非深交笃爱何以及是：知感知愧，且惧其无以堪之也。虽然，仆亦何敢不自鞭勉，而徒以感愧辞让为乎哉！其谓“思、孟、周、程无意相遭于千载之下，与其尽信于天下，不若真…
 
-## 必须注意经济工作（一九三三年八月十二日）
+## 卷下·右南大吉录第十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_a363fe1d2dfd.aspx
+- excerpt: 〔1〕古之教者，教以人伦：后世记诵词章之习起，而先王之教亡。今教童子，惟当以孝弟忠信礼义廉耻为专务；其栽培涵养之方，则宜诱之歌诗以发其志意，导之习礼以肃其威仪，讽之读书以开其知觉。今人往往以歌诗、习礼为不切时务，此皆末俗庸鄙之见，乌足以知古人立教之意哉！大抵童子之情，乐嬉游而惮拘检，如草木之始萌芽，舒畅之则条达，摧挠之则衰痿。今教童子必使其趋向鼓舞，中心喜悦，则其进自不能已：譬之时雨春风，沾被卉木，莫不萌动发越，自然日长月化：若冰霜剥落…
 
-## 怎样分析农村阶级（一九三三年十月）
+## 卷下·门人陈九川录第十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_972147dfc704.aspx
+- excerpt: 〔1〕正德乙亥，九川初见先生于龙江。先生与甘泉先生论“格物”之说。甘泉持旧说。先生曰：“是求之于外了，”甘泉曰：“若以格物理为外，是自小其心也。”九川甚喜旧说之是。先生又论“尽心”一章，九川一闻却遂无疑。后家居，复以“格物”遗质。先生答云：“但能实地用功，久当自释。”山间乃自录《大学》旧本读之，觉朱子“格物”之说非是：然亦疑先生以意之所在为物，物字未明。巳卯归自京师，再见先生于洪都。先生兵务倥偬，乘隙讲授，首问：“近年用功何如？”九川曰…
 
-## 我们的经济政策（一九三四年一月）
+## 卷下·门人黄直录第十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193401.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_15829c7822d9.aspx
+- excerpt: 〔1〕黄以方问：“先生格致之说，随时格物以致其知，则知是一节之知，非全体之知也，何以到得‘溥博如天，渊泉如渊’地位？”先生曰：“人心是天渊。心之本体，无所不该，原是一个天，只为私欲障碍，则天之本体失了：心之理无穷尽，原是一个渊，只为私欲窒塞，则渊之本体失了。如今念念致真知，将此障碍窒塞一齐去尽，则本体已复，便是天、渊了。”乃指天以示之曰：“比如面前见天，是昭昭之天，四外见天，也只是眧眧之天。只为许多房子墙壁遮蔽，便不见天之全体，若撤去房…
 
-## 关心群众生活，注意工作方法（一九三四年一月二十七日）
+## 卷下·门人黄修易录第十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19340127.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_34a112981074.aspx
+- excerpt: 〔1〕黄勉叔问：“心无恶念时，此心空空荡荡的，不知亦须存个善念否？”先生曰：“既去恶念，便是善念，便复心之本体矣：譬如日光被云来遮蔽，云去光已复矣。若恶念既去，又要存个善念，即是日光之中添燃一灯。
 
-## 论反对日本帝国主义的策略（一九三五年十二月二十七日）
+## 卷下·门人黄省曾录第十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19351227.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_5c29610ba538.aspx
+- excerpt: 〔1〕黄勉之问：“‘无适也，无莫也，义之与比。’事事要如此否？”先生曰：“固是事事要如此，须是识得个头脑乃可。义即是良知，晓得良知是个头脑，方无执着。且如受人馈送，也有今日当受的，他日不当受的。也有今日不当受的，他日当受的。你若执着了今日当受的，便一切受去。执着了今日不当受的，便一切不受去。便是适莫。便不是良知的本体。如何唤得做义？”
 
-## 中国革命战争的战略问题（一九三六年十二月）
+## 卷下·门人黄以方录第十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193612.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_6596bc6f1a30.aspx
+- excerpt: 先生初归越时，朋友踪迹尚寥落，既后四方来游者日进：癸末年已后，环先生而居者比屋，如天妃、光相诸剎，每当一室，常合食者数十人，夜无卧处，更相就席，歌声彻昏旦。南镇、禹穴、阳明洞诸山远近寺剎，徒足所到，无非同志游寓所在。先生每临讲座，前后左右环坐而听者，常不下数百人，送往迎来，月无虚日：至有在侍更岁，不能遍记其姓名者。每临别，先生常叹日；“君等虽别，不出天地间，苟同此志，吾亦可以忘形似矣。”诸生每听讲出门，未尝不跳跃称快。尝闻之同门先辈曰：…
 
-## 关于蒋介石声明的声明（一九三六年十二月二十八日）
+## 卷下·钱德洪·跋第十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19361228.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_680cdfd611e3.aspx
+- excerpt: 嘉靖戊子冬德洪与王汝中奔师丧至广信，讣告同门，约三年收录遗言。后同门各以所记见遗。洪择其切于问正者，合所私录，得若干条。居吴时，将与文录并刻矣。适以忧去，未遂当是时也，四方讲学日众，师门宗旨既明，若无事于赘刻者，故不复萦念。去年，同门曾子汉得洪手抄复傍为采辑，名曰遗言，以刻行于荆。洪读之，觉当时采录精，乃为删其重，削去芜蔓存其三分之一，名曰《传习续录》，复刻于宁国之水西精舍。今年夏，洪来游蕲，沈君思畏曰：“师门之教久行于四方，而独未及于…
 
-## 中国共产党在抗日时期的任务（1937.5.3）
+## 始计篇第一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 相关链接：[[未删节本]为争取千百万群众进入抗日民族统一战线而斗争](marxist.org-chinese-mao-19370508.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_98fea5295abc.aspx
+- excerpt: 故经之以五事，校之以计，而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。道者，令民与上同意也，故可与之死，可与之生，而不畏危也。天者，阴阳、寒暑、时制也。地者，远近、险易、广狭、死生也。将者，智、信、仁、勇、严也。法者，曲制、官道、主用也。凡此五者，将莫不闻，知之者胜，不知者不胜。故校之以计，而索其情，曰：主孰有道？将孰有能？天地孰得？法令孰行？兵众孰强？士卒孰练？赏罚孰明？吾以此知胜负矣。将听吾计，用之必胜，留之；将不听吾计，用之必…
 
-## 为争取千百万群众进入抗日民族统一战线而斗争（一九三七年五月七日在苏区党代表大会上的结论）
+## 作战篇第二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503aa.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_5ba718ac5558.aspx
+- excerpt: 孙子曰：凡用兵之法，驰车千驷，革车千乘，带甲十万，千里馈粮，则内外之费，宾客之用，胶漆之材，车甲之奉，日费千金，然后十万之师举矣。
 
-## 为争取千百万群众进入抗日民族统一战线而斗争（1937.5.8）
+## 谋攻篇第三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370508.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 相关链接：[[删节本]中国共产党在抗日时期的任务](marxist.org-chinese-mao-19370503.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_012e0da3e872.aspx
+- excerpt: 孙子曰：凡用兵之法，全国为上，破国次之；全军为上，破军次之；全旅为上，破旅次之；全卒为上，破卒次之；全伍为上，破伍次之。是故百战百胜，非善之善者也；不战而屈人之兵，善之善者也。
 
-## 实践论：论认识和实践的关系――知和行的关系（一九三七年七月）
+## 军形篇第四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193707.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_92e8fdc28896.aspx
+- excerpt: 孙子曰：昔之善战者，先为不可胜，以待敌之可胜。不可胜在己，可胜在敌。故善战者，能为不可胜，不能使敌之必可胜。故曰：胜可知，而不可为。
 
-## 矛盾论（一九三七年八月）
+## 兵势篇第五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193708.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_dbb2ad5755f6.aspx
+- excerpt: 孙子曰：凡治众如治寡，分数是也。斗众如斗寡，形名是也。三军之众，可使必受敌而无败者，奇正是也。兵之所加，如以碫投卵者，虚实是也。
 
-## 毛泽东：辩证法唯物论（讲授提纲）（中国人民解放军政治学院训练部 翻印本）
+## 虚实篇第六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/1937/index.htm
-- excerpt: | | | | | --- | --- | --- | | [中文马克思主义文库](../../index.html) -> [毛泽东](../index.htm) --- | | | | --- | --- | | --- 按：《辩证法唯物论（讲授提纲）》写于1937年，曾在《抗战大学》第6期至第8期（1938年4月至6月）连载。据以录入的中国人民解放军政治学院训练部翻印本，年代不详。第二章第十一节和第三章中的部分章节分别为《实践论》…
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_da1658f2011f.aspx
+- excerpt: 孙子曰：凡先处战地而待敌者佚，后处战地而趋战者劳，故善战者，致人而不致于人。能使敌人自至者，利之也；能使敌人不得至者，害之也，故敌佚能劳之，饱能饥之，安能动之。出其所不趋，趋其所不意。
 
-## 反对日本进攻的方针、办法和前途（一九三七年七月二十三日）
+## 军争篇第七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_a5829a99f01e.aspx
+- excerpt: 孙子曰：凡用兵之法，将受命于君，合军聚众，交和而舍，莫难于军争。军争之难者，以迂为直，以患为利。 故迂其途，而诱之以利，后人发，先人至，此知迂直之计者也。
 
-## 为动员一切力量争取抗战胜利而斗争（一九三七年八月二十五日）
+## 九变篇第八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370825.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_1557fb0eb15f.aspx
+- excerpt: 孙子曰：凡用兵之法，将受命于君，合军聚众。圮地无舍，衢地交合，绝地无留，围地则谋，死地则战，途有所不由，军有所不击，城有所不攻，地有所不争，君命有所不受。
 
-## 反对自由主义（一九三七年九月七日）
+## 行军篇第九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370907.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_cb5f2359b95d.aspx
+- excerpt: 孙子曰：凡处军相敌：绝山依谷，视生处高，战隆无登，此处山之军也。绝水必远水；客绝水而来，勿迎之于水内，令半济而击之，利；欲战者，无附于水而迎客；视生处高，无迎水流，此处水上之军也。绝斥泽，惟亟去无留；若交军于斥泽之中，必依水草而背众树，此处斥泽之军也。平陆处易，而右背高，前死后生，此处平陆之军也。凡此四军之利，黄帝之所以胜四帝也。
 
-## 国共合作成立后的迫切任务（一九三七年九月二十九日）
+## 地形篇第十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370929.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_44bb128788b1.aspx
+- excerpt: 孙子曰：地形有通者，有挂者，有支者，有隘者，有险者，有远者。我可以往，彼可以来，曰通；通形者，先居高阳，利粮道，以战则利。可以往，难以返，曰挂；挂形者，敌无备，出而胜之；敌若有备，出而不胜，难以返，不利。我出而不利，彼出而不利，曰支；支形者，敌虽利我，我无出也；引而去之，令敌半出而击之，利。隘形者，我先居之，必盈之以待敌；若敌先居之，盈而勿从，不盈而从之。险形者，我先居之，必居高阳以待敌；若敌先居之，引而去之，勿从也。远形者，势均，难以…
 
-## 和英国记者贝特兰的谈话（一九三七年十月二十五日）
+## 九地篇第十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_18975ec72ced.aspx
+- excerpt: 孙子曰：用兵之法，有散地，有轻地，有争地，有交地，有衢地，有重地，有圮地，有围地，有死地。诸侯自战其地，为散地。入人之地不深者，为轻地。我得则利，彼得亦利者，为争地。我可以往，彼可以来者，为交地。诸侯之地三属，先至而得天下之众者，为衢地。入人之地深，背城邑多者，为重地。行山林、险阻、沮泽，凡难行之道者，为圮地。所由入者隘，所从归者迂，彼寡可以击吾之众者，为围地。疾战则存，不疾战则亡者，为死地。是故散地则无战，轻地则无止，争地则无攻，交地…
 
-## 上海太原失陷以后抗日战争的形势和任务（一九三七年十一月十二日）
+## 火攻篇第十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371112.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_a32380013d86.aspx
+- excerpt: 孙子曰：凡火攻有五：一曰火人，二曰火积，三曰火辎，四曰火库，五曰火队。行火必有因，烟火必素具。发火有时，起火有日。时者，天之燥也；日者，月在箕、壁、翼、轸也。凡此四宿者，风起之日也。
 
-## 陕甘宁边区政府、第八路军后方留守处布告（一九三八年五月十五日）
+## 用间篇第十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_414bacc3722e.aspx
+- excerpt: 孙子曰：凡兴师十万，出征千里，百姓之费，公家之奉，日费千金；内外骚动，怠于道路，不得操事者，七十万家。相守数年，以争一日之胜，而爱爵禄百金，不知敌之情者，不仁之至也，非人之将也，非主之佐也，非胜之主也。故明君贤将，所以动而胜人，成功出于众者，先知也。先知者，不可取于鬼神，不可象于事，不可验于度，必取于人，知敌之情者也。
 
-## 抗日游击战争的战略问题（一九三八年五月）
+## 学问类第一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 相关链接：[抗日游击战争的战略问题（《毛泽东集》第6卷）](collect/06-001.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_cca0a0a60a1b.aspx
+- excerpt: 诸君到此何为，岂徒学问文章，擅一艺微长？便算读书种子； 在我所求亦恕，不过子臣弟友，尽五伦本分，共成名教中人。
 
-## 论持久战（一九三八年五月）
+## 存养类第二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193805b.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_d75f7dead0c5.aspx
+- excerpt: 性分不可使不足，故其取数也宜多。曰穷理，曰尽性，曰达天，曰入神，曰致广大、极高明。情欲不可使有余，故其取数也宜少，曰谨言，曰慎行，曰约己，曰清心，曰节饮食、寡嗜欲。
 
-## 毛泽东：中国共产党在民族战争中的地位（一九三八年十月十四日）
+## 持躬类第三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 未删节版：[抗日民族战争与抗日民族统一战线发展的新阶段（即《论新阶段》）](marxist.org-chinese-mao-19381012aa.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_226787235441.aspx
+- excerpt: 聪明睿知，守之以愚。功被天下，守之以让。勇力振世，守之以怯。道德隆重，守之以谦。
 
-## 毛泽东：抗日民族战争与抗日民族统一战线发展的新阶段——一九三八年十月十二日至十四日在中共扩大的六中全会的报告
+## 敦品类第四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381012aa.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm) 毛选二卷删改版：[中国共产党在民族战争中的地位](marxist.org-chinese-mao-19381014.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_35b4a197f66c.aspx
+- excerpt: 人以品为重，若有一点卑污之心，便非顶天立地汉子。品以行为主，若有一件愧怍之事，即非泰山北斗宏仪。
 
-## 统一战线中的独立自主问题（一九三八年十一月五日）
+## 处事类第五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_d181839bf23f.aspx
+- excerpt: 处难处之事愈宜宽，处难处之人愈宜厚，处至急之事愈宜缓，处至大之事愈宜平，处疑难之际愈宜无意。
 
-## 战争和战略问题（一九三八年十一月六日）
+## 接物类第六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381106.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_70dd1db472aa.aspx
+- excerpt: 事属暧昧，要思回护他，着不得一点攻讦的念头。人属寒微，要思矜礼他，着不得一毫傲睨的气象。
 
-## 五四运动（一九三九年五月一日）
+## 齐家类第七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390501.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_f0fc7ee111c1.aspx
+- excerpt: 以父母之心为心，天下无不友之兄弟；以祖宗之心为心，天下无不和之族人；以天地之心为心，天下不无爱之民物。
 
-## 五四运动（毛泽东，1939年5月1日）
+## 从政类第八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390501.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_1f1dcb49a40a.aspx
+- excerpt: 眼前百姓即儿孙，莫谓百姓可欺，且留下儿孙地步；堂上一官称父母，漫道一官好做，须尽些父母恩情。
 
-## 青年运动的方向（一九三九年五月四日）
+## 惠吉类第九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390504.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_da4fb857f526.aspx
+- excerpt: 多积阴德，诸福自至，是取决于天。尽力农事，加倍收成，是取决于地。善教子孙，后嗣昌大，是取决于人。
 
-## 反对投降活动（一九三九年六月三十日）
+## 悖凶类第十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390630.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_c2922b3c3562.aspx
+- excerpt: 机者，祸患所由伏，人生于机，即死于机也。巧者，鬼神所最忌，人有大巧，必有大拙也。
 
-## 当前时局的最大危机（毛泽东，1939年6月30日）
+## 摄生（附）第十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390630.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 王阳明心学
+- source: https://www.gushiwen.cn/guwen/bookv_2f577d587ea8.aspx
+- excerpt: 少思虑以养心气，寡色欲以养肾气，勿妄动以养骨气，戒嗔怒以养肝气，薄滋味以养胃气，省言语以养神气，多读书以养胆气，顺时令以养元气。
 
-## 必须制裁反动派（一九三九年八月一日）
+## 修身篇·禀父母·谨守父亲保身之则第一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_fec3d61ffdef.aspx
+- excerpt: 父亲大人万福金安，自闰三月十四日，在都门拜送父亲，嗣后共接家信五封。五月十五日，父亲到长沙发信，内有四弟信，六弟文章五首。谨悉祖父母大人康强，家中老幼平安，诸弟读书发奋，并喜父亲出京，一路顺畅，自京至省，仅三十余日，真极神速。
 
-## 用国法制裁反动份子――在平江惨案诸烈士追悼大会上的讲演（毛泽东，1939年8月1日）
+## 修身篇·禀父母·痛改前非自我反第二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390801.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_aa1edb300e04.aspx
+- excerpt: 父母亲大人万福金安。十月廿二，奉到手谕，敬悉一切。郑小珊处，小隙已解。男人前于过失，每自忽略，自十月以来，念念改过，虽小必惩，其详具载示弟书中。
 
-## 关于国际新形势对新华日报记者的谈话（一九三九年九月一日）
+## 修身篇·致诸弟·明师益友虚心请教第三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390901.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_7aaaa91c2bf9.aspx
+- excerpt: 十月廿一，接九弟在长沙所发信，内途中日记六页，外药子一包。廿二接九月初二日家信，欣悉以慰。
 
-## 和中央社、扫荡报、新民报三记者的谈话（一九三九年九月十六日）
+## 修身篇·禀父母·劝弟勿夜郎自大第四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390916.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_29ba65f33397.aspx
+- excerpt: 父母亲大人万福金安。六月廿日，接六弟五月十二书，七月十六，接四弟九弟五月廿九日书。皆言忙迫之至，寥寥数语、字迹潦草，即县试案首前列，皆不写出。同乡有同日接信者，即考古老先生，皆已详载。同一折差也，各家发信，迟十余日而从容；诸弟发信，早十余日而忙迫，何也？且次次忙迫，无一次从容者，又何也？
 
-## 苏联利益和人类利益的一致（一九三九年九月二十八日）
+## 修身篇·致诸弟·劝弟谨记进德修业第五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390928.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_e3677855a8a9.aspx
+- excerpt: 昨廿七日接信，畅快之至，以信多而处处详明也。四弟七夕诗甚佳，已详批诗后；从此多作诗亦甚好，但须有志有恒，乃有成就耳。余于诗亦有工夫，恨当世无韩昌黎及苏黄一辈人可与发吾狂言者。但人事太多，故不常作诗；用心思索，则无时敢忘之耳。
 
-## 《共产党人》发刊词（一九三九年十月四日）
+## 修身篇·致诸弟·劝弟切勿恃才傲物第六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391004.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_73b1be0861dc.aspx
+- excerpt: 吾人为学，最要虚心。尝见朋友中有美材者，往往恃才傲物，动谓人不如已，见乡墨则骂乡墨不通，见会墨则骂会墨不通，既骂房官，又骂主考，未入学者，则骂学院。平心而论，己之所为诗文，实亦无胜人之处；不特无胜人之处，而且有不堪对人之处。只为不肯反求诸己，便都见得人家不是，既骂考官，又骂同考而先得者。傲气既长，终不进功，所以潦倒一生，而无寸进也。
 
-## 目前形势和党的任务（一九三九年十月十日）
+## 修身篇·禀父母·做事当不苟不懈第七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391010.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_7d22dadf3107.aspx
+- excerpt: 父母亲大人万福金安。四月十四日，接奉父亲三月初九日手谕，并叔父大人贺喜手示，及四弟家书。敬悉祖父大人病体未好，且日加沉剧，父叔离诸兄弟服侍已逾三年，无昼夜之间，无须叟之懈。男独一人，远离膝下，未得一日尽孙子之职，罪责甚深。闻华弟荃弟文思大进，葆弟之文，得华弟讲改，亦日驰千里，远人闻此，欢慰无极！
 
-## 大量吸收知识分子（一九三九年十二月一日）
+## 修身篇·致诸弟·劝宜力除牢骚第八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391201.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_1a50b7402bd8.aspx
+- excerpt: 日来京寓大小平安，癣疾又已微发，幸不为害，听之而已。湖南榜发，吾邑竟不中一人。沅弟书中，言温弟之文，典丽鹬皇，亦尔被抑，不知我诸弟中半来科名，究竟何如？以祖宗之积累，及父亲叔父之居心立行，则诸弟应可多食厥报。以诸弟之年华正盛，即稍迟一科，亦未遂为过时。特兄自近年以来，事务日多，精神日耗，常常望诸弟有继起者，长住京城，为我助一臂之力。且望诸弟分此重任，余亦欲稍稍息肩，乃不得一售，使我中心无倚。
 
-## 中国革命和中国共产党（一九三九年十二月）
+## 修身篇·致四弟·不宜露头角于外第九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_8a4aed7c9b6c.aspx
+- excerpt: 顷接来缄，又得所寄吉安一缄，具悉一切。朱太守来我县，王刘蒋唐往陪，而弟不往宜其见怪。嗣后弟于县城省城，均不宜多去。处兹大乱未平之际，惟当藏身匿变，不可稍露圭角于外，至要至要！
 
-## 毛泽东：中国革命与中国共产党（未删节本）
+## 修身篇·致九弟·劝宜息心忍耐第十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912aa.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ae95ae3e24c0.aspx
+- excerpt: 十二日申刻，代一自县归，接弟手书，具审一切。十三日未刻文辅卿来家，病势甚重，自醴陵带一医生偕行，似是瘟疫之证，两耳已聋，昏迷不醒，问作诸语，皆惦记营中。余将弟已赴营，省城可筹半饷等事，告之四五次。渠已醒悟，且有喜色。因嘱其静心养病，不必挂念营务，余代为函告南省江省等语。
 
-## 斯大林是中国人民的朋友（一九三九年十二月二十日）
+## 修身篇·致九弟·劝弟须保护身体第十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391220.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_bc1d28113f71.aspx
+- excerpt: 接弟十五夜所发之信，知十六日已赴吉安矣，吉字中营尚易整顿否？古之成大事者，规模远大与综理密微，二者阙一不可。弟之综理密微，精力较胜于我。军中器械，其略精者，宜另立一簿，亲自记注，择人而授之。古人以销仗鲜明为威敌之要务，恒以取胜。刘峙衡于火器亦勤于修整，刀矛则全不讲究。余曾派褚景昌赴河南采买白蜡杆子，又办腰刀分赏各将弁，人颇爱重。弟试留心此事，亦练理之一端也。至规模宜大，弟亦讲求及之。但讲阔大者，最易混入散漫一路。遇事颟顸，毫无条理，虽大…
 
-## 纪念白求恩（一九三九年十二月二十一日）
+## 修身篇·致九弟·做人须要有恒心第十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_16b297f2490e.aspx
+- excerpt: 十二日正七、有十归，接弟信，备悉一切。定湘营既至三曲滩，其营官成章鉴亦武弁中之不可多得者，弟可与之款接。来书谓“意趣不在此，则兴会索然”，此却大不可。凡人作一事，便须全副精神注在此一事，首尾不懈。不可见异思迁，做这样想那样，坐这山望那山。人而无恒，终身一无所成，我生平坐犯无恒的弊病，实在受害不校当翰林时，应留心诗字，则好涉猎他书，以纷其志；读性理书时，则杂以诗文各集，以歧其趋。在六部时，又不甚实力讲求公事。在外带兵，又不能竭力专治军事，…
 
-## 学习白求恩（毛泽东，1939年12月21日）
+## 修身篇·致九弟·言凶德有二端第十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19391221.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_383c60a075af.aspx
+- excerpt: 初三日刘福一等归，接来信，藉悉一切。城贼围困已久，计不久亦可攻克，惟严断文报是第一要义，弟当以身先之，家中四宅平安，余身体不适，初二日住白玉堂，夜不成寐。
 
-## 新民主主义论（一九四○年一月）
+## 修身篇·致九弟·愿共鉴诫二弊第十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194001.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_54d277fbd5c8.aspx
+- excerpt: 二十日胡二等归，接弟十三夜书，具悉一切。所论兄之善处，虽未克当，然亦足以自怡。兄之郁郁不自得者，以生平行事有初鲜终；此次又草草去职，致失物望，不无内疚。
 
-## 克服投降危险，力争时局好转（一九四○年一月二十八日）
+## 修身篇·致九弟·注意平和二字第十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_6f456ba10d46.aspx
+- excerpt: 春二安五归，接手书，知营中一切平善，至为欣慰！次青二月以后，无信寄我，其眷属至江西，不知果得一面否？弟寄接到胡中丞奏伊入浙之稿，示知是否成行？项得耆中丞十三日书，言浙省江山兰溪两县失守，次青前往会剿；是次青近日声光，亦渐渐脍炙人口。广信衙州两府不失，似浙中终无可虑，未审近事究复如何？
 
-## 团结一切抗日力量，反对反共顽固派（一九四○年二月一日）
+## 修身篇·致四弟·必须加意保养第十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_fbeab602cdbc.aspx
+- excerpt: 今年以来，贤弟实在劳苦，较之我在军营，殆过十倍，万望加意保养。祁阳之贼，或可不窜湘乡，万一窜入，亦系定数，余已不复县系。余自去年六月再出，无不批之禀，无不复之信，往来这嫌隙尤悔，业已消去十分之七八。惟办理军务，仍不能十分尽职，盖精神不足也。
 
-## 向国民党的十点要求（一九四○年二月一日）
+## 修身篇·致九弟四弟·早起乃健身之妙方第十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201b.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_40581e8b362f.aspx
+- excerpt: 接家信，知叔父大人，已于三月二日安厝马公塘。两弟于家中两代老人养生送死之事，备极敬诚，将来必食报于子孙。闻马公场山势平衍，可决其无水蚁凶灾，尤以为慰。澄弟服补剂而大愈，幸甚幸甚！
 
-## 毛泽东：延安民众讨汪拥蒋大会通电
+## 修身篇·致九弟·宜平骄矜之气第十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201baa.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b4c74929c26c.aspx
+- excerpt: 接来缄，知营墙及前后壕皆倒，良深焦灼。然亦恐是挖壕时不甚得法，若容土覆得极远，虽雨大，不至仍倒入壕内，庶稍易整理。至墙子则无倒坍，不仅安庆耳。徽州之贼，窜浙者，十之六七，在府城及休宁者，闻不过数千人，不知确否？
 
-## 《中国工人》发刊词（一九四○年二月七日）
+## 修身篇·致九弟李弟·须戒傲惰二字第十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f4ae335668a3.aspx
+- excerpt: 沅弟以我切责之缄，痛自引咎，俱蹈危机，而思自进于谨言潮该路，能如是，是弟终身载福之道，而吾家之幸也！季弟言亦平，温雅，远胜往年傲惰气象。
 
-## 必须强调团结和进步（一九四○年二月七日）
+## 修身篇·致四弟·用药须小心谨慎第二十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_7c29333c085a.aspx
+- excerpt: 接弟手书，具悉弟病日就痊愈。至慰至幸！唯弟服药多，又坚嘱泽儿请医调治，余颇不以为然。吾祖星冈公在时，不信医药，不信僧巫，不信地师，此三者，弟必能一一记忆。今我辈兄弟亦宜略法此意，以绍家风。今年做道场二次，祷祀之事，闻亦常有，是不信僧巫一节，已失家风矣。买地至数千金之多，是不信地师一节，又与家风相背。至医药则合家大小老幼，几于无人不药，无药不贵。迨至补药吃出毛病，则服凉药攻伐之，阳药吃出毛病，则服阴药清润之，辗转差误，非大病大弱不止。
 
-## 毛泽东：中共中央关于目前时局与党的任务的决定（一九四○•二•一）
+## 修身篇·致四弟·不宜非议讥笑他人第二十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201aa.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_51873a8770a2.aspx
+- excerpt: 弟言家中子弟，无不谦者，此却未然。凡畏人不敢妄议论者，谨慎者也。凡好讥评人短者，骄傲者也。谚云：“富家子弟多骄，贵家子弟多傲。”非必锦衣玉食，动手打人，而后谓之骄傲也。但使志得意满，毫无畏忌，开口议人短长，即是极骄傲耳。
 
-## 新民主主义的宪政（一九四○年二月二十日）
+## 修身篇·致九弟季弟·做人须清廉谨慎勤劳第二十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400220.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_c90224ae0cde.aspx
+- excerpt: 帐棚即日赶办，大约五月可解六营，六月再解六营，使新勇略得却署也。小台枪之药，与大炮之药，此问并无分别，亦未制造两种药，以后定每月解药三万斤至弟处，当不致更有缺乏。王可升十四日回省，其老营十六可到，到即派往芜湖，免致南岸中段空虚。
 
-## 新民主主义的宪政――二月二十日在延安各界宪政促进会成立大会的演讲（毛泽东，1940年2月20日）
+## 修身篇·致九弟季弟·必须自立自强第二十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19400220.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f8f7528e3c03.aspx
+- excerpt: 沅于人概天概之说，不甚措意，而言及势利之天下，强凌弱之天下，此岂自今日始哉？盖从古已然矣。从古帝王将相，无人不由自强自立做出；即为圣贤者，亦各有自立自强之道，故能独立不俱，确乎不拔。余往年在京，好与有大名大位者为仇，亦未始无挺然特立，不畏强御之意。
 
-## 抗日根据地的政权问题（一九四○年三月六日）
+## 修身篇·致九弟·望勿各逞己见第二十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d5b133b6272c.aspx
+- excerpt: 此次洋枪合用，前次解去之百支，果合用否？如有不合之处，一一指出。盖前次以大价买来，若过于吃亏，不能不一一与之申说也。吾固近日办事名望，关系不浅，以鄂中疑季之言相告，弟则谓我不应述及外间指摘，吾家昆弟过恶，吾有所闻，自当一一告弟，明责婉劝，有则改之，无则加勉，岂可秘尔不宣？
 
-## 目前抗日统一战线中的策略问题（一九四○年三月十一日）
+## 修身篇·致九弟季弟·治身宜不服药第二十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_eac4cfb45275.aspx
+- excerpt: 季弟病似虍疾，近已痊愈否？吾不以季弟病之易发为虑，而以季好轻下药为虑。吾在外日久，阅事日多，每劝人以不服药为上策。吴彤云近病极重，水米不进，已十四日矣。十六夜四更，已将后事料理，手函托我。余一概应允，而始终劝其不服药。自初十日起，至今不服药十一天，昨日竞大有转机，虍疾减去十之四，呕逆各症，减去十之七八，大约保无他变。
 
-## 放手发展抗日力量，抵抗反共顽固派的进攻（一九四○年五月四日）
+## 修身篇·致九弟季弟·服药不可大多第二十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400504.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f2357422906e.aspx
+- excerpt: 久不接来信，不知季病全愈否？各营平安否？东征局专解沅饷五万，上海许解四万，至今尚未到皖。阅新闻纸，其中一条言：何根云六月初七正法，读之悚惧惆帐。余去岁腊尾，买鹿茸一架，银百九十两，嫌其太贵。
 
-## 团结到底（一九四○年七月五日）
+## 修身篇·致四弟·劝弟须静养身体第二十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400705.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_2c4f1b93de63.aspx
+- excerpt: 沉霆两军病疫，迄未稍愈，宁国各属，军民死亡相继，遁勤相望。河中积尸生虫，往往缘船而上，河水及井水，皆可不食：其有力者，用舟载水于数百里之外，秽气触人，十病八九，诚宇宙之大劫，军行之奇苦也。
 
-## 论政策（一九四○年十二月二十五日）
+## 修身篇·致四弟·与官相见以谦谨为主第二十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19401225.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b82d0e4fabc5.aspx
+- excerpt: 沅弟金陵一军，危险异常；伪忠王率悍贼十余万，昼夜猛扑，洋枪极多，又有西洋之落地开花炮。幸沅弟小心坚守，应可保全无虞。
 
-## 为皖南事变发表的命令和谈话（一九四一年一月二十日）
+## 修身篇·致九弟·述治事宜勤军第二十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410120.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_69adbaadd8b1.aspx
+- excerpt: 弟读邵尹诗，领得恬淡冲融之趣，此是襟怀长进处。自古圣贤豪杰，文人才士，其志事不同，而其豁达光明之胸，大略相同。以诗言之，必先有豁达光明之识，而后有恬淡冲融之趣；自李白韩退之杜牧之，则豁达处多，陶渊明孟浩然白香山则冲淡处多。杜苏二公，无美不备，而杜之五律最冲淡，苏之七古最豁达，邵尧夫虽非诗之正宗，而豁达冲淡，二者兼全。吾好读庄子。以其豁达足益人胸襟也。去年所讲生而美者，若知之，若不知之。若闻之，若不闻之一段，最为豁达。推之即舜禹之有天而不…
 
-## 打退第二次反共高潮后的时局（一九四一年三月十八日）
+## 修身篇·致九弟·只问积劳不问成名第三十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410318.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_80303e1f8ef6.aspx
+- excerpt: 接初五夜地道轰陷贼城十余丈，被该逆抢堵，我军伤亡三百余人，此尽意中之事。城内多百战之寇，阅历极多，岂有不能抢堵缺口之理？苏州先复，金陵自遥遥无期，弟切不必焦急。
 
-## 关于打退第二次反共高潮的总结（一九四一年五月八日）
+## 修身篇·致九弟·万望毋恼毋怒第三十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_9a6dbe06f1ba.aspx
+- excerpt: 适闻常州克复、丹阳克复之信，正深欣慰！而弟信中有云：“肝病已深，痛疾已成，逢人辄怒，遇事辄忧等语。”读之不胜焦虑。今年以来，苏浙克城甚多，独金陵迟迟尚无把握，又饷项奇绌。不如意之事机，不入耳之言语，纷纷迭乘，余尚温郁成疾，况弟之劳苦过甚，百倍阿兄，心血久亏，数倍于阿兄乎？
 
-## 《农村调查》的序言和跋（一九四一年三月、四月）
+## 修身篇·致九弟·宜以自养自医为主第三十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_e3db8599acc5.aspx
+- excerpt: 厚庵到皖，坚辞督办一席，渠之赴江西与否，余不能代为主持。至于奏折；则必须渠亲自陈奏，余断不能代辞。厚帅现拟在此办折，拜疏后仍回金陵水营；春霆昌歧闻亦日内可到、春霆回籍之事，却不能不代为奏恳也；弟病今日少愈否？肝病余所深知，腹疼则不知何证？屡观《郎山脉案》，以扶脾为主，不求速效，余深以为然。然心肝两家之病，究以自养自医为主，非药物所能为力。今日偶过裱画店，见弟所写对联，光彩焕发，精力似甚完足；若能认真调养，不过焦灼，必可渐渐复元。（同治三…
 
-## 改造我们的学习（一九四一年五月十九日）
+## 修身篇·致九弟·凡郁怒最易伤人第三十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_870c15d740ba.aspx
+- excerpt: 内疾外证，果愈几分，凡郁怒最易伤人，余有错处，弟尽可一一直说。人之忌我者，惟愿弟做错事。惟愿弟之不恭。人之忌弟者，惟愿兄做错事，惟愿兄之不友。弟看破此等物情，则知世路之艰险，而心愈抑畏，气反和平矣。（同治三年五月廿三日）
 
-## 揭破远东慕尼黑的阴谋（一九四一年五月二十五日）
+## 修身篇·致四弟·述养身有五事第三十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410525.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_285602621fd7.aspx
+- excerpt: 乡间谷价日贱，禾豆畅茂，犹是升平气象，极慰极慰。贼自三月下旬，退出曹郓之境，幸保山运河以东各属，而仍蹂躏及曹宋徐四凤淮诸府，彼剿此窜，倏忽来往。直至五月下旬一张牛各股，始窜至周家口以西，任赖各股。始窜至太和以西。大约夏秋数月，山东江苏，可以高枕无忧，河南皖鄂又必手忙脚乱。
 
-## 关于反法西斯的国际统一战线（一九四一年六月二十三日）
+## 修身篇·致九弟·宜自修处求强第三十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410623.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_15d80c9f7cf5.aspx
+- excerpt: 接弟信，具悉一切。弟谓命运作主，余所深信，谓自强者，每胜一筹，则余不甚深信。凡国之强，必须多得贤臣；凡家之强，必须多出贤子弟，此亦关乎天命，不尽由于人谋。至一身之强，则不外乎北宫黝、孟施舍、曾子三种，孟子之集议而慊，即曾子之自反而缩也。
 
-## 在陕甘宁边区参议会的演说（一九四一年十一月六日）
+## 修身篇·致九弟·时刻悔悟大有进益第三十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19411106.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_aeab61cde080.aspx
+- excerpt: 鄂督五福堂有回禄之灾，幸人口无恙，上房无恙，受惊已不小矣。其屋系板壁纸糊，本易招火；凡遇此等事，只可说打杂人役失火，固不可疑会匪之毒谋，尤不可怪仇家之奸细。若大惊小怪，胡想乱猜，生出多少枝叶，仇家转得传播以为快。惟有处处泰然，行所无事，申甫所谓好汉打脱牙和血吞，星冈公所谓有福之人善退财，真处逆境者之良法也。
 
-## 整顿党的作风（一九四二年二月一日）
+## 修身篇·致九弟·必须逆来顺受第三十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_4503ac288ac0.aspx
+- excerpt: 接李少帅信，知春霆因弟覆奏之片，言省三系与任逆接仗，霆军系与赖逆交锋，大为不平，自奏伤疾举发，请开缺调理。又以书告少帅，谓弟自占地步，弟当此百端拂秽之时，又添此至交龃龉之事，想心绪益觉难堪。然事已如此，亦只有逆来顺受之法，仍不外悔字诀、硬字诀而已。
 
-## 反对党八股（一九四二年二月八日）
+## 劝学篇·禀父母·闻九弟习字长进第三十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420208.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_1a4fcc460de3.aspx
+- excerpt: 父母亲大人万福金安，九弟之病，自正月十六日后，日见强旺；二月一日开荤，现全复元矣。二月以来，日日习字，时有长进。男亦常习小楷，以为明年考差之具。近来改临智永千字文贴，不复临颜柳二家帖，以不合时宜故也。
 
-## 在延安文艺座谈会上的讲话（一九四二年五月）
+## 劝学篇·禀父母·教弟写字养神第三十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194205.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_25eb88f352a6.aspx
+- excerpt: 父母亲大人万福金安。三月初，奉大人正月十二日手谕，具悉一切。又知附有布疋腊肉等，在黄弗卿处，第不知黄氏兄弟，何日进京？又不知家中系专人送至省城，抑托人顺带也？
 
-## 一个极其重要的政策（一九四二年九月七日）
+## 劝学篇·禀父母·劝两弟学业宜精第四十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_08f0709aa05b.aspx
+- excerpt: 父母亲大人万福金安。六月廿八日，接到家书，系三月廿四日所发，知十九日四弟得生子，男等合室相庆，四妹生产虽难，然血晕亦是常事；且此次既能保全，则下次较为容易。男未得信时，常以为虑，既得此信，如释重负。
 
-## 第二次世界大战的转折点（一九四二年十月十二日）
+## 劝学篇·致诸弟·述求学之方法第四十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421012.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d74618f85b7d.aspx
+- excerpt: 九弟行程，计此时可以到家；自任邱发信之后，至今未接到第二封信，不胜悬悬！不知道上有甚艰险否？四弟六弟院试，计此时应有信，而折差久不见来，实深悬望！
 
-## 祝十月革命二十五周年（一九四二年十一月六日）
+## 劝学篇·致诸弟·读书宜立志有恒第四十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421106.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_913d81b290f9.aspx
+- excerpt: 十一前月八日，已将日课抄与弟阅，嗣后每次家书，可抄三叶付回。日课本皆楷书，一笔不苟，惜抄回不能作楷书耳。
 
-## 抗日时期的经济问题和财政问题（一九四二年十二月）
+## 劝学篇·致诸弟·勉励自立课程第四十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_5f89015b8dea.aspx
+- excerpt: 四妹小产以后，生育颇难。然此事最大，断不可以人力勉强。劝渠家只须听其自然，不可过于矜持。又闻四妹起最晏，往往其姑反服侍他，此反常之事，最足折福，天下未有不孝之妇而可得好处者。诸弟必须时劝导之，晓之以大义。
 
-## 关于领导方法的若干问题（一九四三年六月一日）
+## 劝学篇·致诸弟·讲读经史方法第四十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_02f64d7b5f5d.aspx
+- excerpt: 正月十五日接到四弟六弟九弟十二月初五日所发家信，四弟之信三页，语语平实，责我待人不恕，甚为切当。常谓月月书信，徒以空言责弟辈，却又不能实有好消息，令堂站闻之言，疑弟辈粗俗庸碌，使弟辈无地可容云云，此数语，兄读之不觉汗下。我去年曾与九弟闲谈云：“为人子者，若使父母见得我好些，谓诸兄弟俱不及我，这便是不孝，若使族党称道我好些，谓诸兄弟俱不如我，这便是不悌，何也？盖使父母心中有贤愚之分，使族党口中有贤愚之分，则必其平日有讨好底意思，暗用机计，…
 
-## 质问国民党（一九四三年七月十二日）
+## 劝学篇·致六弟·述学诗习字之法第四十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_178ea9b713ea.aspx
+- excerpt: 五月廿九，六月初一，连接弟三月初一，四月廿五，五月初一，三次所发之信，并四书文二茸，笔力实实可爱！信中有云：“于兄弟出直达其隐，父子祖孙间，不得不曲致其情。”此数语有大道理。余之行事，每自以为至诚可质天地，何妨直情径行。昨接四弟信，始知家人天亲之地，亦有时须委曲以行之者、吾过矣！吾过矣！
 
-## 开展根据地的减租、生产和拥政爱民运动（一九四三年十月一日）
+## 劝学篇·致诸弟·劝述孝悌之道第四十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b8a4bca4529c.aspx
+- excerpt: 五月底连接三月初一，四月十八，两次所发家信。四弟之信，具见真性情，有困心衡虑郁积思通之象。此事断不可求速效，求速效必助长，非徒无益，而又害之。必要日积月累，如愚公之移山，终久必有豁然贯通之侯，愈欲速则愈锢蔽矣，来书往往词不达意，我能深谅其苦。
 
-## 评国民党十一中全会和三届二次国民参政会（一九四三年十月五日）
+## 劝学篇·致诸弟·温经更增长见识第四十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431005.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_091e4cbdcdff.aspx
+- excerpt: 朱啸山亦于是日到，现与家心斋同居。伊兄代伊觅得房子，距余寓甚近，不过一箭远耳。郭筠仙现尚未到，余已为凭本胡同关帝庙房，使渠在庙中住，在余家伙食。
 
-## 组织起来（一九四三年十一月二十九日）
+## 劝学篇·致诸弟·勿为时文所误第四十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_44a837cd8ceb.aspx
+- excerpt: 余于三月廿四，移寓前门内西边碾儿胡同，与城外消息不通，四月间到折差一次，余竟不知，迫既知而折差已去矣。惟四月十九欧阳小岑南归，余寄衣箱银物并信一件。四月廿四梁录庄南归，余寄书卷零物并信一件。两信皆仅数语，至今想尚未到，四月十三黄仙垣南归，余寄闱墨，并无书信，想亦未到。兹将三次所寄各物，另开清单付回，待三人到时，家中照单查收可也。
 
-## 学习和时局（一九四四年四月十二日）
+## 劝学篇·禀父母·教弟注重看书第四十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440412.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3dd3bbee07c2.aspx
+- excerpt: 父母亲大人万福金安。初十日顺天乡试发榜，湖南中三人，长沙周荇农中南元。率五之归，本拟附家心斋处，因率五不愿坐车，故附陈岱云之弟处，同坐粮船。昨岱云自天津归云：“船不甚好。”男颇不放心，幸船上人多，应可无虑。
 
-## 为人民服务（一九四四年九月八日）
+## 劝学篇·致诸弟·必须立志猛进第五十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19440908.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ab09508c08c7.aspx
+- excerpt: 四位老弟足下，自七月发信后，未接诸弟信，乡间寄信，较省城寄信百倍之难，故余亦不望。然九弟前信，有意与刘霞仙同伴读书，此意甚佳，霞仙近来读朱子书，大有所见，不知其言话容止，规模气象如何？若果言动有礼，威仪可则，则直以为师可也，岂特友之哉？然与之同居，亦须真能取益乃佳，无徒浮慕虚名；人苟能自立志，则圣贤毫杰，何事不可为？何必借助于人？我欲仁，斯仁至矣。我欲为孔孟，则日夜孜孜，惟孔孟之是学，人谁得而御我哉？若自己不立志，则虽日与尧舜禹汤同住，…
 
-## 评蒋介石在双十节的演说（一九四四年十月十一日）
+## 劝学篇·致诸弟·读书必须有恒心第五十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_a87a5d99e69f.aspx
+- excerpt: 前月寄信，想已接到。余蒙祖宗遗泽，祖父教训，幸得科名，内顾无所忧，外遇无不如意，一无所缺矣。所望者，再得诸弟强立，同心一力，何患令名不显，何愁家运这不兴。欲别立课程，多讲规条，使诸弟遵而行之，又恐诸弟习见而生厌心；欲默默而不言，又非长兄督责之道。是以往年常示诸弟以课程，近来则只教以有恒二字。所望于诸弟者，但将诸弟每月功课，写明告我，则我心大慰矣！
 
-## 文化工作中的统一战线（一九四四年十月三十日）
+## 劝学篇·致诸弟·按月作文寄京第五十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_8f27cc4aff0b.aspx
+- excerpt: 去年十二月廿二日，寄去书函，谅已收到。项接四弟信，谓前信小注中，误写二字，其诗此即付还，今亦忘其所吴语何矣。诸弟写信，总云仓忙，六弟去年曾言南城寄信之难，每次至抚院斋奏厅打听云云，是何其蠢也？静坐书院三百六十日，日日皆可信，何必打听听差行期而后动笔哉？或送至提塘，或送至岱云家，皆万无一失。何必问了无涉之斋奏厅哉？若弟等仓忙，则兄之仓忙，殆过十倍，将终岁无一字寄家矣。
 
-## 必须学会做经济工作（一九四五年一月十日）
+## 劝学篇·致诸弟·评文字之优劣
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450110.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_01df6dd29c6d.aspx
+- excerpt: 四月十四日接子植二月三月两次手书；又接季洪信一函，子植何其详，季洪何其略也？今年以来，京中己发信七号，不审俱收到否？第六号第七号；余皆有禀堂上，言今年恐不考差，彼时身体虽平安，而癣疥之疾未愈，头上面上颈上，并斑驳陆离，恐不便于陛见，故情愿不考差。恐堂上诸大人不放心，故特作白折楷信，以安慰老亲之念。
 
-## 游击区也能够进行生产（一九四五年一月三十一日）
+## 劝学篇·致四弟·读书不可太疏忽第五十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450131.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d7f670a87657.aspx
+- excerpt: 贺常四到营，接弟信，言早起太晏；诚所有免。去年住营盘，各营皆畏慎早起，自腊月廿六移寓公馆，早间稍晏，各营皆随而渐晏，未有主帅晏而将弁能早者也。犹之一家之中，未能家长晏而子弟能早者也。
 
-## 两个中国之命运（一九四五年四月二十三日）
+## 劝学篇·致四弟·宜劝诸侄勤读书第五十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_77033dee8877.aspx
+- excerpt: 沅弟营中久无战事，金陵之贼，亦无粮尽确耗。杭州之贼目陈炳文，闻有投诚之信，克复当在目前。天气阴雨作寒，景象亦不甚匪。吾在兵间日久，实愿早灭此寇，仰斯民稍留孓遗而睹此消息，竟未知何日息兵也？
 
-## 论联合政府（一九四五年四月二十四日）
+## 劝学篇·致四弟九弟·宜居家时苦学第五十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450424.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d2d1ddf77af0.aspx
+- excerpt: 腊月初六接沅弟来信，知己平安到家，慰幸无己！少荃初六日起行，己抵苏州。余于十四日入闱写榜，是夜二更发榜，正榜二百七十三，副榜四十八，闱墨极好，为三十所来所未有。
 
-## 论联合政府 （一九四五年四月二四日在中国共产党第七次全国代表大会上的政治报告）
+## 劝学篇·致九弟·讲求奏议不迟第五十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450424aa.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_0d681646e82c.aspx
+- excerpt: 弟信言寄文每月以六篇为率，余意每月三次，每次未满千字者则二篇，千字以上者则止一篇。选文之法，古人选三之二；本朝入选三之一，不知果当弟意否？
 
-## 愚公移山（一九四五年六月十一日）
+## 劝学篇·致四弟九弟·谆嘱瑞侄用功第五十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450611.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_c0ec5f2c8746.aspx
+- excerpt: 纪瑞侄得取县案首，喜慰无已！吾不望代代得富贵，但愿代代有秀才。秀才者，读书之种子也。世家之招牌也，礼义之旗帜也。谆嘱瑞侄从此奋勉加功，为人与为学并进，切戒骄奢二字，则家中风气日厚。而诸子侄争相濯磨矣。
 
-## 论军队生产自给，兼论整风和生产两大运动的重要性（一九四五年四月二十七日）
+## 劝学篇·致四弟九弟·述为不学有四要事第五十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450427.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_c0f07aa7ee51.aspx
+- excerpt: 屡接弟信，并阅弟给纪泽等谕帖，具悉一切。兄以八月十三出省，十月十五日归署，在外匆匆，未得常寄函与弟，深以为歉小澄生子，岳松入学，是家中近日可庆之事，沅弟夫妇病而速痊，亦属可慰。
 
-## 赫尔利和蒋介石的双簧已经破产（一九四五年七月十日）
+## 治家篇·禀父母·述家和万事兴第六十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_4fe29cf71043.aspx
+- excerpt: 父母亲大人万福金安。正月八日，恭庆祖父母双寿，男去腊作寿屏二架，今年同乡送寿对者五人，拜寿来客四十人，早面四席，晚酒三席。未吃晚酒者，于十六日廿日补请二席。又请人画椿重荫，观者无不叹羡！
 
-## 评赫尔利政策的危险（一九四五年七月十二日）
+## 治家篇·禀父母·教弟以和睦为第一第六十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450712.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_7c60833c2f64.aspx
+- excerpt: 父母大人万福金安。二月十六日，接到家信第一号，系新正初三交彭山屺者，敬悉一切。去年十二月十一，祖父大人忽患肠风，赖神戳佑，得以速痊，烈游子闻之，尚转心悸！六弟生女，自是大喜。初八日恭逢寿诞，男不克在家庆祝，心犹依依。
 
-## 给福斯特同志的电报（一九四五年七月二十九日）
+## 治家篇·致诸弟·教弟婚姻大事须谨慎第六十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450729.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_4e7227097f8d.aspx
+- excerpt: 十六早，接到十一月十二日发信，内父亲一信，四位老弟各一件，具悉一切，不胜次喜！四弟之诗，又有长进，第命意不甚高超，声调不甚响亮。命意之高，须要透过一层，如说考试，则须说科名是身外物，不足介怀，则诗意高矣。若说必以得科名为荣，则意浅矣。举此一端，余可类推。腔调则以多读诗为主，熟则响矣。
 
-## 对日寇的最后一战（一九四五年八月九日）
+## 治家篇·禀父母·勿因家务过劳第六十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450809.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_9ba493d3e6af.aspx
+- excerpt: 父母亲大人膝下：十六夜，接到六月初八日所发家信，欣悉一切。祖父大人病已十愈八九，尤为莫大之福！六月二十八日，曾发一信，言升官事，想已收到。冯树堂六月十六日出京，寄回红顶补服袍褂手钏笔等物。计八月可以到家。贺礼惟七月初五日出京，寄回鹿胶高丽参等物，计九月可以到家。
 
-## 抗日战争胜利后的时局和我们的方针（一九四五年八月十三日）
+## 治家篇·禀叔父母·勿因劳累过度第六十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_84efd938a236.aspx
+- excerpt: 叔父母大人礼安。十六接家信二件，内父亲一谕，四弟一书，九弟季弟各一书，欧阳牧云一书，得悉一切。祖大人之病，不得少减，日夜劳心，父亲叔父辛苦服侍，而侄无离膝下，竟不得效丝毫之力，终夜思维，刻不能安。
 
-## 蒋介石在挑动内战（一九四五年八月十三日）
+## 治家篇·致诸弟·无时不想回家省亲第六十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450813b.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b9e19afab0e9.aspx
+- excerpt: 正月十一日发一家信，是日子极不闲，又见温甫在外未归，心中懊恼；故仅写信与诸弟，未尝为书禀堂上大人，不知此书近已接到否？
 
-## 第十八集团军总司令给蒋介石的两个电报（一九四五年八月）
+## 治家篇·致诸弟·告诫弟弟要清白做人第六十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194508.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_c53308c924dc.aspx
+- excerpt: 澄侯在广东，前后共发信七封；至郴州耒阳，又发二信，三月十一到家以后，又发二信，皆已收到。植洪二弟，今年所发三信，亦均收到。
 
-## 评蒋介石发言人谈话（一九四五年八月十六日）
+## 治家篇·致诸弟·述改建祖屋之意见第六十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450816.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_2cac744ea4e7.aspx
+- excerpt: 十二月初九，接到家中十月十二日信，初十日一信，具悉一切。家中改屋，有与我意见相同之处，我于前次信内，曾将全屋画图寄归，想已收到，家中即已改妥，十一月初一日一信，则不必依我之图矣。但三角丘之路，必须改于檀山嘴下面，于三角丘密种竹木，此我画之要叫嘱，望诸弟禀告堂上，急急行之。
 
-## 中共中央关于同国民党进行和平谈判的通知（一九四五年八月二十六日）
+## 治家篇·致诸弟·拟定于明年归家探亲第六十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450826.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_bf9af08757b8.aspx
+- excerpt: 十月十六日，发一家信，由廷芳宇明府带交。便寄曾希六陈体元从九品执照各一纸，欧阳沧溟先生陈开煦换执照并批回各二张，添梓坪叔庶曾祖母百折裙一条，曾陈二人九品补服各一副。母亲大人耳帽一件，膏药一千张，服药各种，阿胶二斤，朝珠二挂，笔五枝，针底了六十个。曾陈二人各对一付，沧溟先生横幅篆字一副。计十二月中旬应可到省，存陈岱云宅，家中于小除夕前二日遣人至省走领可也。芳字在汉口须见上司，恐难早到，然遇顺风，则腊月初亦可到，家中或着人早去亦可。
 
-## 关于重庆谈判（一九四五年十月十七日）
+## 治家篇·致诸弟·迎养父母叔父第六十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451017.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_488546e5ad02.aspx
+- excerpt: 一系十一月十八所发，有父亲手谕，植弟代书者。一系十二月初三澄侯弟在县城所发一书，甚为详明，使游子在外，巨细了然。
 
-## 国民党进攻的真相（一九四五年十一月五日）
+## 治家篇·谕纪泽·料理丧母之后事离京第七十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451105.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_78be43563839.aspx
+- excerpt: 七月廿五日丑正二刻，余行抵安徽太湖县之小池驿，惨闻吾母大故，余德不修，无实学而有虚名，自知当有祸变，惧之久矣。不谓天不陨灭我身，反而灾及我母，回思吾平日隐愚大罪，不可胜数，一闻此信，无地自容。
 
-## 减租和生产是保卫解放区的两件大事（一九四五年十一月七日）
+## 治家篇·谕纪泽·携眷赶紧出京第七十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451107.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3479d6a0ceb8.aspx
+- excerpt: 吾于七月念五日在太湖县途次，痛闻吾母大故，是日仍雇小轿，行六十里，是夜未睡，写京中家信，料理一切，命尔等眷口于开吊后赶紧出京，念六夜发信，交湖北晰台寄京，念七发信，交江西抚台寄京，两信是一样说话，而江西信更详，恐到得尽，故由两处发耳，惟仓卒哀痛之中，有未尽想到者，兹又想出数条，开示于后：一、他人欠我帐目，算来亦将近千金，惟同年鄢勖斋，当时听其肤受之朔，而借与百金；其实此人并不足惜，今渠已参官，不复论已，此外凡有借我钱者，皆光景甚窘之人，…
 
-## 一九四六年解放区工作的方针（一九四五年十二月十五日）
+## 治家篇·谕纪泽·家眷万不可出京第七十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ae29d6ac52e2.aspx
+- excerpt: 余于初八日，在舟中写就家书，十一日早，始到黄州，因阻风太久，遂雇一小轿起岸，十二日未刻，到湖北省城，晤常南陔先生之世兄，始知湖南消息,长沙被围危急，道路梗阻，行旅不通，不胜悲痛焦灼之至！
 
-## 建立巩固的东北根据地（一九四五年十二月二十八日）
+## 治家篇·谕纪泽·勤通书信不必挂念第七十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_652bf916b7f3.aspx
+- excerpt: 十三日，在湖北省城住一天，左思右想，只得仍回家，见吾父为是，拟十四日起行，由岳州湘阴，绕道出沅江益阳，以至湘乡，约须半月，沿途自知慎重，如果遇贼，即仍回湖北省城，陆续有家店寄京，不必挂念。
 
-## 关于目前国际形势的几点估计（一九四六年四月）
+## 治家篇·谕纪泽·家眷在京须一切谨慎第七十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194604.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_2283cff14c03.aspx
+- excerpt: 予自在太湖县闻讣后，于廿六日书家信一号，托陈岱云交安励提塘寄京。念七日发二号家信，托常南陔交湖北提塘寄京。念八日发三号，交丁松亭转匀江西提塘寄京，此三次信，皆命家眷赶紧出京之说也，八月十三日在湖北发家信第四号，十四日发第五号，念六日到家后，发家信第六号，此三次信，皆有长沙彼围，家眷不必出京之说也，不知皆已收到否？
 
-## 以自卫战争粉碎蒋介石的进攻（一九四六年七月二十日）
+## 治家篇·致诸弟·在家宜注重勤敬和第七十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460720.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_a7bd8fab365b.aspx
+- excerpt: 久未遣人回家，家中自唐二维五等到后，亦无信来，想平安也，余于念九日自新提移营，八月初一至嘉鱼县，初五日自坐小舟，至牌洲看阅地势，初七日即将大营移驻牌洲，水师前营左营中营，自闰七月念三日驻扎金口，念七日贼匪水陆上犯，我陆军未以，水军两路堵之，抢贼船二只，杀贼数十人，得一胜仗，罗山于十八念四念六日等日得四胜仗，初四发折，俱详叙之，兹付回。
 
-## 和美国记者安娜・刘易斯・斯特朗的谈话（一九四六年八月六日）
+## 治家篇·致诸弟·勿使子侄骄奢淫佚第七十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_5ce8657a3b27.aspx
+- excerpt: 念五日著胡二等送家信，报收复武汉之喜，念七日具折奏捷，初一日制台杨慰农需到鄂相会，是日又奏念四夜焚襄河贼舟之捷，初七日奏三路进兵之折，其日西刻，杨载福彭玉麟等，率水师六十余船，前往下游剿贼，初九日前次谢恩折，奉朱批到鄂，初十日喜四刘四等来营，进攻武汉三路进剿之折，奉失批到鄂。
 
-## 集中优势兵力，各个歼灭敌人（一九四六年九月十六日）
+## 治家篇·谕纪泽·宜教家人勤劳持家第七十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460916.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_53619b5101a9.aspx
+- excerpt: 胡二等来，接尔安禀；字画尚未长进，尔今年十八岁，齿已渐长，而学业未其益，陈岱云姻伯之子，号吉生者，今年入学，学院批其诗冠通场，渠系戊戌二月所生，比尔仅长一岁，以其无父无母，家渐清贫，遂尔勤苦好学，少年成名，尔幸托祖父余荫，衣食丰适，宽然无虑，遂尔酣豢佚乐，不复以读书立身为事。古人云：“劳则善心生，佚则淫心生。”孟子曰：“生于忧患，死于安乐。”吾忧尔之过于佚也。
 
-## 美国“调解”真相和中国内战前途――和美国记者斯蒂尔的谈话（一九四六年九月二十九日）
+## 治家篇·致四弟·宜常在家侍侯父亲第七十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460929.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3f488d8a9d91.aspx
+- excerpt: 胡二等来，知弟不在家，出看本县团练。吾兄弟五人，皆出外带勇，季居三十里外，弟又常常他出，遂无一人侍奉父亲膝下。温亦不克遄归侍奉叔父，实于《论语》远游吉惧二章之训相违。观余令九弟速来瑞州，与温并军，庶二人可以更番归剩澄弟宜时常在家，以尽温清之职，不宜干预外事，至嘱至嘱。
 
-## 三个月总结（一九四六年十月一日）
+## 治家篇·致四弟·不宜常常出门第七十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19461001.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_8b8389512b45.aspx
+- excerpt: 初六俊四等来营，奉到父大人谕帖，并各信件，得悉一切。弟在各乡看闭阅操，日内汁已归家。家中无人，田园荒芜，堂上定省多阙，弟以后总不宜常常出门，至嘱至嘱！
 
-## 迎接中国革命的新高潮（一九四七年二月一日）
+## 治家篇·致四弟·得两弟为帮手
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470201.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_5e839e0317a8.aspx
+- excerpt: 二十八日由瑞州营递到父大人手谕，并弟与泽儿等信，具悉一切。六弟在瑞州输一应事宜，尚属妥善，识见本好，气质近亦和平。九弟治军严明，名望极振。吾得两弟为帮手，大局或有转机。
 
-## 中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件（一九四六年十一月、一九四七年四月）
+## 治家篇·致九弟·归家料理祠堂第八十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b47f1c03d6c7.aspx
+- excerpt: 正七归，接一信，启五等归，又接一情。正七以虚故，不能这回营，启五求于尝新后始去。兹另遣人送信至营，以慰远虞。
 
-## 关于西北战场的作战方针（一九四七年四月十五日）
+## 治家篇·致四弟季弟·在家里注重种蔬等事第八十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470415.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_05bcf5915027.aspx
+- excerpt: 兄于十二日到湖口，曾发一信，不知何时可到？胡蔚之奉江西耆中丞之命，接我晋剩余因于二十日，自湖口开船入省，杨厚奄送至南康，彭雪琴径送至省，诸君子用情之厚，罕有伦比，浙中之贼，闻已全省肃清，余到江，与眷中丞商定，大约由湖口入闽。
 
-## 蒋介石政府已处在全民的包围中（一九四七年五月三十日）
+## 治家篇·致诸弟·宜兄弟和睦又实行勤俭二字第八十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_52ddb9cdc6c1.aspx
+- excerpt: 十六日接澄弟初二日信，十八日接澄弟初五日信，敬悉一切。三河败挫之信，初五日固家中尚无确耗，且县城之内，毫无所闻，亦极奇矣。九弟于念二日在湖口发信，至今未再接信，实深悬系，幸接希庵信，言九弟至汉口后有书与渠，且专人至桐城三河访寻下落。余始知沅甫弟安抵汉口，而久无来信，则不解何故？岂余日别有过失，沅弟心不以为然那？当初闻三河凶报，手足急难之际，即有微失，亦当将皖中各事，详细示我。
 
-## 解放战争第二年的战略方针（一九四七年九月一日）
+## 治家篇·致诸弟·述家庭不可说利害话第八十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470901.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b58a1773c5a1.aspx
+- excerpt: 十五日接澄沅冬月念九三十两函。得悉叔父、人于二十六日患病，有似中风之象，吾家自道光元年，即处顺境，历三十余年均极平安。自咸丰年来，每遇得意之时，即有失意之事，相随而至。壬子科，余典试江西，请假归省，即闻先大夫人之讣。甲寅冬，余克武汉田家镇；声名多盛。腊月念五甫奉黄马褂之赐，是夜即大败，衣服文卷，荡然无存。六年之冬七年之春，兄弟三人，督师于外，瑞州合围之时，气象甚好，旋即遭先大夫二丧。今年九弟克复吉安，誉望极隆，十月初七，接到知府道衔谕旨…
 
-## 中国人民解放军宣言（一九四七年十月十日）
+## 治家篇·致诸弟·述六弟妇治家贤慧而命最苦第八十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_16fd27decc24.aspx
+- excerpt: 澄侯沅甫季洪老弟阁下：十五日接叔父患病之信，十六日专王法六送鹿茸回家限年内赶到。十七早接澄弟两信，沅弟一信，叔父病势已愈，大幸大幸！
 
-## 中国人民解放军总部关于重行颁布三大纪律八项注意的训令（一九四七年十月十日）
+## 治家篇·致诸弟·述起屋造祠堂第八十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_10c3033d6efc.aspx
+- excerpt: 王四等来，得知叔父大人病势稍加，得十三日优恤之旨，不知何如？项又接十九日来函，知叔父病已略愈，欣慰欣慰！然温弟灵枢到家之时，我家祖宗有灵，能保得叔父不添病，六弟妇不过节裂，犹为不幸中之一幸耳。
 
-## 目前形势和我们的任务（一九四七年十二月二十五日）
+## 治家篇·致四弟·治家有八字诀第八十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3baacfbeae82.aspx
+- excerpt: 念七日接弟信，欣悉合家平安。沅弟是日申刻到，又得详同一切，敬知叔父临终，毫无抑郁之情，至为慰念！
 
-## 关于建立报告制度（一九四八年一月七日）
+## 治家篇·致四弟·居乡要诀宜节俭第八十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480107.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ff735eeca2f8.aspx
+- excerpt: 五月四日接弟缄，书蔬鱼猪，早扫考宝，横写八字，下用小字注出，此法最好，余必遵办，其次序则改为考宝早扫；书蔬鱼猪。
 
-## 关于目前党的政策中的几个重要问题（一九四八年一月十八日）
+## 治家篇·致九弟季弟·做后辈宜戒骄横之心第八十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480118.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_51356ae9900f.aspx
+- excerpt: “接信知北岸日内尚未开仗，此问鲍张于十五日获胜，破万安街贼巢，十六日获胜，破休宁东门外二垒，鲍军亦受伤百余人。正在攻剿得手之际，不料十九日未刻，石坟之贼，破羊栈岭而入新岭，桐林岭同时被破，张军前后受敌，全局大震，比之徽州之失，更有甚焉。
 
-## 军队内部的民主运动（一九四八年一月三十日）
+## 治家篇·致四弟·教子侄宜戒骄奢佚第九十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d067445c5c77.aspx
+- excerpt: 此间于十九日，忽被大股贼匪，窜入羊栈岭，去祁门老营，仅六十里，人心大震。幸鲍张两军，于念日念一日，大战获胜，克复黟县，追则出岭，转危为安。此次之险，倍于八月廿五徽州失守时也。
 
-## 在不同地区实施土地法的不同策略（一九四八年二月三日）
+## 治家篇·致四弟·教子侄做人要谦虚勤劳第九十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_0ec0eaf06a94.aspx
+- excerpt: 自十六日唐桂生克复建德，而皖北沅季之文报始通。自鲍镇廿八日至景德镇，贼退九十里，而江西饶州之饷道始通。若左鲍二公，能将浮梁鄱阳等处之贼，逐出江西境外，仍从建德窜出，则风波渐平，而祁门可庆安稳矣。
 
-## 纠正土地改革宣传中的“左”倾错误（一九四八年二月十一日）
+## 治家篇·致四弟·教子弟去骄气惰习第九十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ff2415656d2f.aspx
+- excerpt: 腊底由九弟处寄到弟信，具悉一切。弟于世事，阅历渐深，而信中不免有一种骄气；天地间惟谦谨是载福之道。骄则满，满则倾矣。凡动口动笔，厌人之俗，嫌人之鄙，议人之短，发人之覆，皆骄也。无论所指未必果当，即使一一切当已为天道所不许。
 
-## 新解放区土地改革要点（一九四八年二月十五日）
+## 治家篇·致四弟·教子弟牢记祖训八字第九十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_e785d7847ddf.aspx
+- excerpt: 上次送家信者，三十五日即到，此次专人四十日来到，盖因乐平饶州一带有贼，恐中途绕道也。自十二日克复休宁后，左军分出八营，在于甲路地方小挫，退扎景镇。贼幸未跟踪追犯，左公得以整顿数日，锐气尚未大减。
 
-## 关于工商业政策（一九四八年二月二十七日）
+## 治家篇·致四弟·教弟必须爱惜物力第九十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480227.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_a3c06e4b0ad3.aspx
+- excerpt: 围山觜桥稍嫌用钱太多，南塘竟希公祠宇，亦尽可不起。沅弟有功于国，有功于家，干好万好，但规模太大，手笔大廓，将来难乎为继，吾与弟当随时斟酌，设法裁减。此时竟希公祠宇，业将告竣，成事不说。其星冈公祠及温甫事恒两弟之词，皆可不修，且待过十年之后再看，至嘱至嘱！
 
-## 关于民族资产阶级和开明绅士问题（一九四八年三月一日）
+## 治家篇·致四弟·惜福贵乎勤俭第九十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480301.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ba28c7ce1322.aspx
+- excerpt: 吾不欲多寄银物至家，总恐老辈失之奢，后辈失之骄，未有钱多而子弟不骄者也，吾兄弟欲为先人留遗泽，为后人惜余福，除去勤俭二字，别无做法。弟与沅弟能勤而不能俭，余微俭而不甚俭；子侄看大眼，吃大口，后来恐难挽，弟须时时留心。（同治二年正月十四日）
 
-## 评西北大捷兼论解放军的新式整军运动（一九四八年三月七日）
+## 治家篇·致九弟·欣悉家庭和睦第九十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480307.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_80a0f8aa7608.aspx
+- excerpt: 苦攻无益，又以皖北空虚之故，心急如焚。我弟忧劳如此，何可再因上游之事，添出一番焦灼。上游之事，千妥万妥。两岸之事，皆易收拾。弟积劳太久，用心太苦，不可再虑及他事。
 
-## 关于情况的通报（一九四八年三月二十日）
+## 治家篇·致四弟·教子勤俭为主第九十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480320.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_197cdcb5957d.aspx
+- excerpt: 余在金陵，二十日起行至安庆，内外大小平安。门第太甚，余教儿女辈，惟以勤俭谦三字为主。自安庆以至金陵，沿江六百里，大小城隘，皆沅弟之所攻取，余之幸得大名，皆沅弟之所赠送也，皆高曾祖父之所留遗也。
 
-## 在晋绥干部会议上的讲话（一九四八年四月一日）
+## 治家篇·致四弟·宜以耕读为本第九十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480401.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_88ae2731e8b7.aspx
+- excerpt: 吾自五十以后，百无所求，惟望星冈公之后，丁口繁盛，此念刻刻不忘。吾都不及祖父远甚，惟此心则与祖父无殊。弟与沅弟望后辈添丁之念，又与阿兄无殊。或者天从人愿，鉴我三兄弟之城心，从此丁口日盛，亦未可知。
 
-## 对晋绥日报编辑人员的谈话（一九四八年四月二日）
+## 理财篇·禀祖父母·述告在京无生计第九十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480402.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_a6e78481c9b1.aspx
+- excerpt: 祖父大人万福金安，六月初五日，接家信一封，系四弟初十日在省城发，得悉一切，不胜欣慰！孙国藩日内身体平安，国荃于什日微受暑热，服药一帖，次日即愈。初三日复患腹泻，服药二帖，即愈，曾孙甲三于廿三日腹泻不止，比请郑小珊诊治，次日添请吴竹如，皆云系脾虚而并受暑气，三日内服药六贴，亦无大效，廿六日添请本京王医，专服凉药渐次平复。初一二两日未吃药，刻下病已好，惟脾元尚亏，体尚未复。孙等自知细心调现，观其行走如常，饮食如常，不吃药即可复体，堂上不必挂…
 
-## 再克洛阳后给洛阳前线指挥部的电报（一九四八年四月八日）
+## 理财篇·禀祖父母·述京中窘迫状第一百
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480408.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_91f1deecb770.aspx
+- excerpt: 祖父大人万福金安。廿九日早，接丹阁十叔信，系正月廿八日发，始知祖父大人于二月间体气违和，三月已痊愈，至今康健如常，家中老幼均吉，不胜欣幸！四弟于五月初九寄信物于彭山屺处，至今尚未到，大约七月可到。丹阁叔信内言：去年楚善叔田业卖于我家承管，其曲折甚多。
 
-## 新解放区农村工作的策略问题（一九四八年五月二十四日）
+## 理财篇·禀父母·筹划归还借款第一百零一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480524.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_299b5252112c.aspx
+- excerpt: 父亲大人万福金安，彭山屺进京，道上为雨泥所苦，又值黄河水涨，渡河时大费力，行旅衣服皆湿。惟男所寄书，渠收贮箱内，全无潮损，真可感也！到京又以腊肉莲茶送男，渠于初九日到，男到十三日请酒。二六日将四十千钱交楚。渠于十八日赁住黑巾，离城十八里，系武会试进场之地，男必去送考。
 
-## 一九四八年的土地改革工作和整党工作（一九四八年五月二十五日）
+## 理财篇·禀父母·借银寄回家用第一百零二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480525.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f3f3af80c472.aspx
+- excerpt: 父母亲大人万福金安，十四日接家信，内有父亲叔父并丹阁叔信各一件，得悉丹阁叔入伴，且堂上各大人康煌，不胜次幸！男于八月初六日，移寓绳匠胡同，北头路东，屋甚好，共古八间，每月房租京钱二十千文，前在棉花胡同，房甚逼厌，此时房屋爽垲，气象轩敞；男与九弟言，恨不能接堂上各大人来京住此。
 
-## 关于辽沈战役的作战方针（一九四八年九月、十月）
+## 理财篇·禀父母·在外借债过年第一百零三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194809and10.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_4f39626e72c4.aspx
+- excerpt: 父母亲大人万福金安。昨十二月十六日，奉到手谕，知家中百事顺遂，不胜欣幸！男等在京，身体平安，孙男孙女皆好，现在共用四人，荆七专抱，孙男以春梅事多，不兼顾也，孙男每日清晨，与男同起，即送出外，夜始接归上房，孙女满月有客一席，九弟读书，近有李碧峰同居，较有乐趣，男精神不甚好，不能勤教，亦不督责，每日兄弟笑语欢娱，萧然自乐，而九弟似有进境，兹将昨日裸文原稿呈上。
 
-## 关于健全党委制（一九四八年九月二十日）
+## 理财篇·禀父母·家中费用窘迫第一百零四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480920.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_973f3edebaeb.aspx
+- excerpt: 父亲大人万福金安。男与九弟身体清洁，家妇亦平安，孙男甲三体好，每日吃粥两顿，不吃零星饮食，去冬已能讲话，孙女亦体好，乳食最多，合寓顺适。今年新正，景象阳和，较去年正月，甚为燠暖。
 
-## 中共中央关于九月会议的通知（一九四八年十月十日）
+## 理财篇·禀祖父母·要叔父教训诸弟以管家事第一百零五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481001.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_c65ccd8fca66.aspx
+- excerpt: 祖父母大人万福金安。四月廿一日，接壬寅第二号家信，内祖父父亲叔父手书各一，两弟信并诗文俱收，伏读祖父家谕，字迹与早年相同，知精神较健，家中老幼平安，不胜欣幸。游子在外，最重惟平安二字，承叔父代办寿具，兄弟感恩，何以图报？
 
-## 关于淮海战役的的作战方针（一九四八年十月十一日）
+## 理财篇·禀祖父母·无钱寄回家第一百零六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481011.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_01200dc91de8.aspx
+- excerpt: 祖父母大人万福金安。孙兄弟在京平安，孙妇身体如常。曾孙兄妹二人种痘后，现花极佳，男种六颗，出五颗，女种四颗，出三颗，并皆清吉，寓内上下平善。
 
-## 全世界革命力量团结起来，反对帝国主义的侵略（一九四八年十一月）
+## 理财篇·禀父母·寄银还债济人第一百零七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194811.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_638b7039fde3.aspx
+- excerpt: 父母亲大人万福金安，男在四川，于十一月廿日返京，彼时无折弁回南，至十二月十六日始发家信，十二月除夕又发一信，交曾受恬处，受恬名兴仁，善化丙子举人，任江西分宜县知县，上年进京引见，正月初四日出都，迂道由长沙回江西；男与心斋各借银一百两，与渠作途费，男又托渠带银三百两，系蓝布密缝三包，鹿胶二斤半，阿胶二斤，共一包，高丽参半斤一包，荆七银四十两一包，又信一封，交陈宅，托其代为收下，面交六弟九弟，大约二月下旬可到剩受恬所借之银百两，若在省能还更…
 
-## 中国军事形势的重大变化（一九四八年十一月十四日）
+## 理财篇·致诸弟·取款及托带银第一百零八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ada8e70ab4e2.aspx
+- excerpt: 二月有折差到京，余因眼蒙，故未写信，三月初三，接到正月付四所发家信，无事不详悉，欣喜之至！此次眼尚微红，不敢多作字，故未另禀堂上，一切详此书中，烦弟等代禀告焉，去年所寄，余有分债亲族之意，厥后屡次信问，总未详明示悉，顷奉父亲示谕云：“皆已周到，酌量减半。”然以余所闻，亦有过于半者，亦有不及一半者，下次信来，务求九弟开一单告我为幸！
 
-## 关于平津战役的作战方针（一九四八年十二月十一日）
+## 理财篇·禀父母·送参冀减息银第一百零九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481211.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_0a66bd915abc.aspx
+- excerpt: 父母亲大人，男于三月初六日，蒙恩得分会试房，四月十一日，发榜出场，身体清吉，合室平安，所有一切事宜，写信交折差先寄。兹因啸山还家，托带纹银百两，高丽参斤半，《子史精华》六套，《古文辞类纂》二套，《绥寇纪略》一套，皆六弟信要看之书。
 
-## 敦促杜聿明等投降书（一九四八年十二月十七日）
+## 理财篇·禀父母·取借款须专人去第一百一十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481217.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_206d415292b8.aspx
+- excerpt: 父母大人万福金安。男于五月中旬，染瘟症，服药即效，已痊愈矣，而余热未尽，近日头上生癣，身上生热毒，每日服银花甘草等药，医云：“内热未故，宜发不宜遏抑，身上之毒，至秋即可全好，头上之癣，亦不至蔓延。”又云：“恐家中祖坟上有不洁处，虽不宜扰动，亦不可不打扫。”男以皮肤之患，不甚经意，仍读书应酬如故，饮食起居，一切如故。
 
-## 将革命进行到底（一九四八年十二月三十日）
+## 理财篇·禀父母·在京事事节俭第一百一十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481230.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_7a74f0f850da.aspx
+- excerpt: 父母亲大人礼次，正月十五日，接到父亲，叔父十一月二十所发手书，敬悉一切，但折弃于腊月念八，在长沙起程，不知四弟何以尚未到省？祖母葬地，易敬臣之产甚是，男去冬已写信与朱尧阶，请渠寻地，兹又寄书与敬臣，尧阶看妥之后，可请敬臣一看，以尧阶为主，而以敬臣为辅，尧阶看定后，若毫无疑议，不再请敬臣可也，若有疑议，则请渠二人商之，男书先寄去，不再请敬臣可也，若有疑议，则请渠二人商之，男书先寄去，若请他时，四弟再写一信去，男有信禀祖父大人，不知祖父可允…
 
-## 评战犯求和（一九四九年一月四日）
+## 理财篇·禀叔父母·托人带银两归家第一百一十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d30e75f357fb.aspx
+- excerpt: 叔父母大人福安，九月初十日，接到四弟九弟季弟等信，系八月中在省城所发者，知祖大人之病，又得稍减，九弟得补廪，不胜欣幸！前劳辛垓廉访，八月十一出京，侄寄去衣包一个，计衣十件，不知已到否？侄有银数十两，欲寄回家，久无妙便。十月间武冈张君经赞回长沙，拟托带回，闻叔父为坍上公屋加工修治，侄亦欲寄银数十两，为叔父助犒赏匠人之资，罗六所存银廿二两在侄处，右三项，皆拟托张君带归。
 
-## 中共中央毛泽东主席关于时局的声明（一九四九年一月十四日）
+## 理财篇·致诸弟·家中务请略有积蓄第一百一十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490114.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_1dff1dcb74ef.aspx
+- excerpt: 去腊寸六日，接温弟在湖北所发信，正月初八日，接诸弟腊月十五所发信，而温弟在河南托邹墨林转寄一信，则至今未到，澄弟十一月十九所发一信，亦至今未到也，澄弟生子，庆贺庆贺！吾与澄弟，去年报最，今年轮应温植洪三人报最矣，但植弟之媳问已有吉语，恐政成当在温弟之前，植弟未免疾行先长耳，四位弟媳，问皆率母亲叔父之教，能勤能俭，予闻之不胜欣喜！已办有材料，今春为四弟媳各制一衣，觅便即行寄回。
 
-## 中共发言人评南京行政院的决议（一九四九年一月二十一日）
+## 理财篇·谕纪泽·托人带银至京第一百一十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490121.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_cb4d34e58987.aspx
+- excerpt: 余于八月十四日，在湖北起行，十人日到岳州，由湘阴宁乡绕道，于念三日到家，在腰裹新屋，痛哭吾母，廿五日至白杨坪老屋，敬谒吾祖星冈公坟墓，家中老小平安，地方亦安静，合境团练，武艺颇好，土匪可以无虑。
 
-## 中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话（一九四九年一月二十八日）
+## 理财篇·致诸弟·带归度岁之资第一百一十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490128.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_27f44849bf89.aspx
+- excerpt: 廿五日遣春二维五归家，曾寄一函，并谕旨奏折二册，廿六日水师在九江开仗获胜，陆路塔罗之军，在江北蕲州之莲花桥，大获胜仗，杀贼千余人，廿八日克复广济县城，初一日在大河埔大获胜仗，初四日在黄梅城上，大获胜仗，初五日克复黄梅县城，该匪数万，现屯踞江岸之小池口，与九江府城相对，塔罗之军，即日追至江岸，始可水陆夹击，能将北岸扫除，然后可渡江以剿九江府之贼，自至九江后，即可专夫由武宁以达平江长沙。
 
-## 中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明（一九四九年二月五日）
+## 理财篇·致九弟·述捐银作祭费第一百一十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_9841a4051d16.aspx
+- excerpt: 十四日胡二等归，我弟初七夜信，具悉一切，初五日城贼猛扑，凭壕对击，坚忍不出，最为合拍。凡扑人之壕，扑人之墙，朴者客也，应者，主也，我若越壕而应之，则是反主为客，所谓致人于人者也，我不越壕，则我常为主，所谓致人而不致于人者也，稳守稳打，彼自意与萦然；峙衡好越濠击贼，吾常不以为然，凡此等悉心推求，皆有一定之理。迪庵善战，其得雇在不轻进不轻退六字，弟以类求之可也。
 
-## 把军队变为工作队（一九四九年二月八日）
+## 理财篇·致九弟·劝捐银修祠堂第一百一十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d11b7df764e9.aspx
+- excerpt: 五月二日，接四月廿三寄信，藉悉一切，城贼于十六早，廿日廿二夜，增来扑我壕，如飞蛾之扑烛，多灭几次，受创愈甚，成功愈易。惟日夜巡守，刻不可懈，若攻围日久，而仍令其逃窜，则咎责匪轻，弟既有统领之名，自须认真查察，比他人尤为辛苦，乃足以资董率，九江克复，闻抚州亦已收复，建昌想亦于日内可复，吉贼无路可走，败功当在秋间，较各处独为迟滞，弟不必慌忙，但当稳围稳守，虽迟至冬间克复亦可，只求不使一名漏泄耳，若似瑞临之有贼外窜，或似武昌之半夜潜窜，则虽速…
 
-## 四分五裂的反动派为什么还要空喊“全面和平”？（一九四九年二月十五日）
+## 理财篇·禀祖父母·请给族人以资助第一百一十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490215.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_5d15624d1a5a.aspx
+- excerpt: 祖父大人万福金安，四月十一日，由折差第六号家信，十六日折弁又到，孙男等平安如常，孙妇亦起居维慎，曾孙数日内添吃粥一顿，因母乳日少，饭食难喂，每日两饭一粥，今年散馆，湖南三人皆留，全单内共留五十二人，惟三人改部属，三人改知县，翰林衙门，现已多至百四五十人，可谓极盛。
 
-## 国民党反动派由“呼吁和平”变为呼吁战争（一九四九年二月十六日）
+## 理财篇·禀祖父母·先馈赠亲戚族人第一百一十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490216.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_0d371425e18a.aspx
+- excerpt: 祖父母大人万福金安，去年腊月十八，曾寄信到家，言寄家银一千两，以六百为家还债之用，以四百为馈赠亲族之用，其分赠数月，另载寄弟信中，以明不敢自专之义也，后接家人，知兑啸山百三十千，则此银已亏空一百矣，顷闻曾受恬丁艰，其借银恐难遽完，则又亏空一百矣，所存仅八百，而家中旧债尚多，馈赠亲族之银，系孙一人愚见，不知祖父母父亲叔父以为可行否？伏乞裁夺。
 
-## 评国民党对战争责任问题的几种答案（一九四九年二月十八日）
+## 理财篇·致诸弟·述接济亲戚族人之故第一百二十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_9cc80a6fda98.aspx
+- excerpt: 来书信自去年五月至十二月，计共发信七八次，兄到京后，家人仅检出二次，一系五月二十二日发，一系十月十六发，其余皆不见，远信难达，往往似此，腊月信有湖涂字样，亦信之不能禁者，盖望眼欲穿之时，疑信杂生，怨怒交至，惟骨肉之情愈挚，则望之愈殷，望之愈殷，则责之愈切，度日如年，居室中环墙，望好音如万金之获，闻谣言如风声鹤唳，又加以堂上之悬思，重以严寒之逼人；其不能不出怨言以相詈者，情之至也，然为兄者观此二字，则虽曲谅其情，亦不能不责之，非责其情，责…
 
-## 在中国共产党第七届中央委员会第二次全体会议上的报告（1949.3.5）
+## 理财篇·禀祖父母·赠亲戚族人数目第一百二十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490305.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_26057de2263e.aspx
+- excerpt: 祖父母大人万福金安，八月廿七，接到七月十五廿五两次所发之信，内祖父母各一信，父亲母亲叔父各一信，诸弟亦皆有信，欣悉一切，慰幸之至！叔父之病，得此次信，始可放心。
 
-## 党委会的工作方法（一九四九年三月十三日）
+## 理财篇·禀叔父母·请兑钱送人第一百二十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490313.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_75a1aa9069ed.aspx
+- excerpt: 叔父婶母大人万福金安，新年两次禀安，未得另书敬告一切，侄以庸鄙无知，托祖宗之福荫，幸窃禄位，时时抚衷滋愧！兹于本月大考，复荷皇上天恩，越四级而超升；侄何德何能？堪此殊荣，常恐祖宗积累之福，自我一人享尽，大可惧也！望叔父作书教侄幸甚！余竺虔归，寄回银五十两；其四十两用法，六弟九弟在省读书，用二十六两，四弟季弟学俸六两，买漆四两，欧阳太岳母奠金四两，前第三号信业己载明矣。
 
-## 南京政府向何处去？（一九四九年四月四日）
+## 理财篇·致诸弟·节俭置田以济贫民第一百二十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490404.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_0c35d500a5ca.aspx
+- excerpt: 七月十三日，接到澄弟六月初七所发家信，具悉一切，吾于六月，共发四次信，不知俱收到否？今年陆费中丞丁忧，闰四月无折差到，故自四月十六日发信后，直至五月中旬始再发信，宜家中悬望也，祖父大人之病，日见增加，远人闻之，实深忧惧！前六月念日所付之鹿茸片，不知何日可到，亦未知可有微功否？
 
-## 向全国进军的命令（一九四九年四月二十一日）
+## 理财篇·致九弟·顺便可以周济第一百二十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490421.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_0f86b48482b1.aspx
+- excerpt: 十一日安五来营，寄一家信，谅已收到，治军总须脚踏实地，克勤小物，乃可日起而有功，凡与人晋接周旋，若无真意则不足以感人，然徒有真意，而无文饰以将之，则真意亦无所托之以出，礼所称“无文不行”也，作生平不讲文饰，到处行不动，近来大悟前非，弟在外办事，宜随时斟酌也。
 
-## 中国人民解放军布告（一九四九年四月二十五日）
+## 理财篇·致九弟·周济受害绅民第一百二十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490425.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3d56ce0a106e.aspx
+- excerpt: 二十六日接弟信，并廿二史二十六套，此书十六史系极古阁本，宋辽金远系《宏简录》、《明史》系殿本，较之兄丙申年所购者，多《明史》一种，余略相类，在吾乡已极为难得矣，吾前在京，亦未另买全史，仅添买辽金元明四史，及《史汉》各佳本而已，《宋史》至今未办，盖阙典也。
 
-## 中国人民解放军总部发言人为英国军舰暴行发表的声明（一九四九年四月三十日）
+## 理财篇·致四弟九弟·千里寄银礼轻义重第一百二十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490330.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_aedb96fa4246.aspx
+- excerpt: 余经手专件，只有长江水师，应撤者尚未撤，应改为额兵尚未改，暨报销二者，未了而已，今冬必将水师章程出奏，并在安庆设局，办理报销，诸事清妥，则余兄弟或出或处，或进或退，绰有余裕。
 
-## 在新政治协商会议筹备会上的讲话（一九四九年六月十五日）
+## 理财篇·致四弟·送银子共患难者第一百二十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_01612c38f32b.aspx
+- excerpt: 余于十月廿五，接入觐之旨，次日写信召纪泽来营，厥后又有三次信，止其勿来，不知均接到否？自十一月初六接奉两江督任之旨，十六日已具疏恭辞，廿八日又奉旨令回本任，初三日又具疏恳辞，如再不获命；尚当再四疏辞，但受恩深重，不敢遽求回籍，留营调理而已，余从此不复作宫。
 
-## 论人民民主专政――纪念中国共产党二十八周年（一九四九年六月三十日）
+## 交友篇·致诸弟·交友拜师宜专一第一百二十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_75ddefd41103.aspx
+- excerpt: 正月二十三日，接到诸弟信，系腊月十六日中省城发，不胜欣慰！四弟女许朱良四姻伯子孙，兰姊女许贺孝七之子，人家甚好，可贺！惟蕙妹家颇可虑，亦家运也。
 
-## 丢掉幻想，准备斗争（一九四九年八月十四日）
+## 交友篇·致诸弟·必须亲近良友第一百二十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490814.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_cde1a811c7fb.aspx
+- excerpt: 四月十六日，曾写信交折弁带回，想已收到，十六日，朱啸山南归，托带纹银百两，高丽参一斤半，书一包，计九套，兹因冯树堂南还。又托带寿屏一架，狼兼毫笔廿枝，鹿胶二斤，对联堂幅一包，内金年伯耀南四条，朱岚暄四条，萧辛五对一幅，江氓山母舅四条，东涤舅父四条，父亲横批一个，叔父折扇一柄，乞照单查收，前信言送江岷山东海高丽参六两，送金耀南年伯参二两，皆必不可不送之物，惟诸弟禀告父亲大人送之可也。
 
-## 别了，司徒雷登（一九四九年八月十八日）
+## 交友篇·禀叔父·不辞劳苦料理朋友的丧事第一百三十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490818.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_560440e9a9a5.aspx
+- excerpt: 叔父大人座下：九月十五十六，连到两折差，又无来信，想四弟六弟已经来京矣。若使未来，则在省还家时，必将书信寄京。侄身上热毒，近日头面大减，请一陈医生，每早吃丸药一钱，而小有法术，已请来三次，每次给车马大钱一千二百文，自今年四月得此病，请医甚多，服药亦五十余剂，皆无效验，惟此人来，乃将面上治好，头上已好十分之六，身尚未好，渠云：“不过一月，即可全愈。”侄起居如常，应酬如故，读书亦如故，惟不伏诗文，少写楷书而已，侄妇及侄孙儿女皆平安，陈岱云现…
 
-## “友谊”，还是侵略？（一九四九年八月三十日）
+## 交友篇·致诸弟·交友须勤加来往第一百三十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490830.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b29a700a0c6a.aspx
+- excerpt: 昨接来信，家中诸事，琐屑毕知，不胜欢慰！祖大人之病，意以眼沉香少愈，幸甚！然予终疑祖大人之体本好，因服补药大多，致火窒于上焦，不能下降，虽服沉香而愈，尚恐非切中肯綮之剂，要须服清导之品，降火滋阴为妙，予虽不知医理，窃疑必须如此，上次家书，亦曾写及，不知曾与诸弟商酌否？丁酉年祖大人之病，亦误服补剂，赖泽六爷投以凉药而效，此次何以总不请泽六爷一诊？泽六爷近年待我家甚好，既不请他诊病，亦须澄弟到他处常常来往，不可太疏，大小喜事，宜常送礼。
 
-## 为什么要讨论白皮书？（一九四九年八月二十八日）
+## 交友篇·致诸弟·切勿占人便宜第一百三十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490828.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_333a86b4363e.aspx
+- excerpt: 二十五日，接到澄弟六月一日所发信，具悉一切，欣慰之至！发卷所走各家，一半系余旧友，惟屡次扰人，心殊不安，我自从已亥年在外把戏，至今以为恨事，将来万一作外官，或督抚，或学政，从前施情于我者，或数百，或数千，皆钓饵也。渠若到任上来，不应则失之刻薄，应之则施一报十，尚不足满其欲，故自庚子到京以来，于今八年，不肯轻受人惠，情愿人占的便益，断不肯我占人的便益，将来若作外官，京城以内，无责报于我者，澄弟在京年余，亦得得略见其概矣，此次澄弟所受各家之…
 
-## 唯心历史观的破产（一九四九年九月十六日）
+## 交友篇·禀父母·述接待朋友之法第一百三十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490916.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f11a4f04fef5.aspx
+- excerpt: 父母亲大人万福金安，十二月初五，接到家中十一月初旬所发家信，俱悉一切，男等在京，身体平安，癣疾已痊愈，六弟体气如常，纪泽兄妹五人皆好。男妇怀喜，平安不服药，同乡各家亦皆无恙，陈本六先生来京，男自有处置之法，大人尽可放心，大约款待从厚而打发从薄，男光景颇窘，渠来亦必自悔。
 
-## 出版说明
+## 交友篇·致九弟·患难与共勿有遗憾第一百三十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-vol5.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_cd8bc873e803.aspx
+- excerpt: 十四日接弟初七夜信，得知一切，贵溪紧急之说确否？近日消息何如？次青非常之才，带勇虽非所长，然亦有百折不回之气，其在兄处，尤为肝胆照人，始终可感！兄在外数年，独惭无以对渠，去腊遣韩升至李家省视其家，略送仪物，又次青约成婚姻，以申永好，目下儿女两家，无相当者；将来渠或三索得男，弟之次女三女，可与订婚，兄信已许之矣，在吉安望常常与之通信，专人往返，想十余日可归也，便得次青生还，与兄相见，则同甘苦患难诸人中，尚不至留莫大之抱歉声耳。
 
-## 中国人民站起来了（一九四九年九月二十一日）
+## 交友篇·致九弟·述挽胡润帅联第一百三十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490921.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_d34103cb8f9b.aspx
+- excerpt: 调巡湖营田刘家渡拖入白湖之札，今日办好，即派人送去，吾所虑者，水师不能由大江入白湖，白湖不能通巢湖耳，今仅拖七八宽堤，即入白湖，斯大幸矣！
 
-## 中国人民大团结万岁（一九四九年九月三十日）
+## 交友篇·致九弟季弟·述有负朋友第一百三十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f47060f97227.aspx
+- excerpt: 湖南之米，昂贵异常，东征局无米解来，安庆又苦于碾碓无多，生日不能春出三百石，不足以应诸路之求，每月解子药各三万斤，不能再多；望弟量入为出，少操几次，以省火药为嘱，扎宫图阅悉，得几场大雨，吟昂等管必日松矣，处处皆系两层，前层拒城贼，当可稳固无虑，少泉代买之洋枪，今日交到一单，待物即解弟处，洋物机括太灵，多不耐久，宜慎用之。
 
-## 人民英雄们永垂不朽（一九四九年九月三十日）
+## 为政篇·禀祖父母·述与英国议和第一百三十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930b.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3c8e09d3561f.aspx
+- excerpt: 祖父母大人万福金安，九月十三日，接到家信，系七月父亲在省所发；内有叔父及欧阳牧云公臻函，知祖母于七月初三日因感冒致恙，不药而愈，可胜欣幸！高丽参足以补气，然身上稍有寒热，服之便不相宜，以后各领斟酌用之，若微觉感冒，即忌用此物，平日康强对，和入丸药内服最好，然此时家中，想已无多，不足可供明年一单丸药之用否？若其不足须写信来京，以便觅便寄回。
 
-## 永远保持艰苦奋斗的作风（一九四九年十月二十六日）
+## 为政篇·禀父母·述盘查国库巨案第一百三十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_4a5781503de9.aspx
+- excerpt: 父母亲大人万福金安。男因身子不甚壮健，恐今年得差劳苦，故现服补药，预为调养，已作丸药两单。考差尚无信，大约在五月初旬。四月初四御史陈公上折直谏，此近所仅见，朝臣仰之如景星庆云，兹将折稿付回。
 
-## 征询对待富农策略问题的意见（一九五○年三月十二日）
+## 为政篇·禀父母·具折奏请日讲第一百三十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500312.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_e7ec2c3bd75a.aspx
+- excerpt: 父母亲大人福安，潢男三月十五到京，十八日发家信一件，四月内应可收到，想男十九日下园子，二十日印刻，恭送大行皇太后上西陵，西陵在易州，离京二百六十里，二十四下午到，廿五日辰致祭，比日转身，赶走一百公里，廿六日走百四十里，申刻到家，一路清吉，而昼夜未免辛苦，廿八早复命，数日内作奏折，拟初一早上具折，因前奏举行日讲，圣上已允谕于百日后举行兹折要，将如何举行之法，切实是奏也。
 
-## 为争取国家财政经济状况的基本好转而斗争（一九五○年六月六日）
+## 为政篇·致诸弟·具奏言兵饷事第一百四十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_405f2058496a.aspx
+- excerpt: 三月初四发一家信，其后初九日，予上一折，言兵饷事，适于是日持以粤西事棘，恐现在彼中者，不堪寄此重托，特放赛中堂前往予折所言甚是，但目前难以举行，命将拆封存军机处，待粤西定后，再行办理，赛中堂清廉公正，名望素著，此行应可迅奏肤功。但湖南近近粤西，兵差过境，恐州县不免借此生端，不无一番蹂躏耳。
 
-## 不要四面出击（一九五○年六月六日）
+## 为政篇·致诸弟·进谏言戒除骄矜第一百四十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606b.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_ef34f93a832a.aspx
+- excerpt: 四月初三日发一家信，厥后折差不来，是以月余无家书，五月十二折弁来，接到家中一信，乃四月一日所发者，具悉一切，植弟大愈，此最可喜！京寓一切平安，癣疾又大愈，比去年六月，更无形迹，去年六月之愈，已为五年来所未有，今又过之，或者从此日退，不复能为恶臭，皮毛之疾，究不甚足虑，久而弥可信也。
 
-## 做一个完全的革命派（一九五○年六月二十三日）
+## 为政篇·致诸弟·详述办理巨盗及公议粮饷事第一百四十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500623.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3aaa43503b8f.aspx
+- excerpt: 八月十七日接到家信，欣悉一荨，左光八为吾乡巨盗，能除其根株，扫其巢穴，则我境长享其利，自是莫阴功，第湖南会匪，所在勾结，往往牵一发而全身皆动，现在刺军程公，将至湖南，即是奉旨查办此事，盖恐粤西匪徒穷窜，一入湖南境内，则楚之会匪，因而窃发也，左光八一伙，想尚非巨伙入会者流，然我境办之，不可过激而生变，现闻其请正绅保举，改行为良，且可捉贼自效，此是一好机会，万一不然，亦须相机图之，不可用力太猛，易发难收也。
 
-## 你们是全民族的模范人物（一九五○年九月二十五日）
+## 为政篇·致九弟季弟·以勤字报君以爱民二字报亲第一百四十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500925.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_811ef16aa1e2.aspx
+- excerpt: 兄膺此巨任，深以为俱！若如陆阿二公之道辙，则贻我父母羞辱，即兄弟子侄，亦将为人民侮，祸福倚伏之几，意不知何者为可喜也？默观近日之吏治人心，及各省之督抚将帅，天下似无戡定之理，吾惟以一勤字报吾君，以爱民二字书报吾亲，才识平常，断难立功，但守一勤字，终日劳苦，以少分宵旰之忧，行军本扰民之事，但刻刻存爱民之心，不使先人积累，自我一人耗尽，此兄之所自矢者，不知两弟以为在否？愿我两弟亦常常存此念也。
 
-## 给中国人民志愿军的命令（一九五○年十月八日）
+## 为政篇·致九弟·暂缓祭祀望溪第一百四十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_2191b4782b2d.aspx
+- excerpt: 望溪先生之事，公私均不甚惬，公牍中须有一事宝册，将生平履历，某年中举中进士，某年升官降官，某年得罪某年昭雪，及生平所著书中，与列祖褒赞其学问品行之语，一一胪列，不作影响约略之词，乃合定例，望溪两次获罪，一为戴名世《南山集》序，入刑部狱，一为其放人方某挂名逆案，将方氏响族，编入旗籍，雍正间始准赦宥，免隶旗籍，望溪文中所云。“因臣而宥及合族者也。”今欲请从祀孔庙，须将两案历奉谕旨，一一查出，尤须将国史本传查出，恐有严旨碍眼者，易于驳诘，从前…
 
-## 中国人民志愿军要爱护朝鲜的一山一水一草一木（一九五一年一月十九日）
+## 为政篇·致季弟·述长江厘卡太多季弟左右第一百四十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510119.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b2e5647092f8.aspx
+- excerpt: 接家书，知季弟妇于二月初七日仙逝，何以一病不起？想系外感之正，弟向来襟怀不畅，适闻此噩耗，谅必哀伤不能自遣。惟弟体亦不十分强壮；尚当达观节哀，保重身体，应否回籍一行，待沅弟至三山来，与弟熟商，再行定夺。
 
-## 中共中央政治局扩大会议决议要点（一九五一年二月十八日）
+## 为政篇·致九弟季弟·述筹办粤省厘金第一百四十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_186395add385.aspx
+- excerpt: 复奏朱侍御一疏，定于五日内拜发，请钦派大员再抽广东全省厘金，余奏派委员随同筹办，专济苏浙杭皖四省之饷，大约所得每月在二十成上下，胜于江西厘务也，此外实无可生发，计今年春夏必极穷窘，秋冬当渐优裕。
 
-## 镇压反革命必须实行党的群众路线（一九五一年五月十五日）
+## 为政篇·致九弟·述抽本省之厘税第一百四十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510515.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_00a45a2b837e.aspx
+- excerpt: 接信知弟目下将操练新军，甚善甚善！惟称欲过江，斜上四华山扎营，则断不可。四华山上带芜湖，下逼东梁，若一两月不破此二处，则我军无势无趣，不得不退回北岸矣。
 
-## 镇压反革命必须打得稳，打得准，打得狠（一九五O年十二月――一九五一年九月）
+## 为政篇·致九弟·处事修身宜明强第一百四十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195012.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_b20393b156ba.aspx
+- excerpt: 来信乱世功名之际，颇为难处十字，实获我心，本田余有一片，亦请将钦篆督篆，二者分出一席，另简大员。吾兄弟常存兢兢业业之心，将来遇有机缘，即便抽身引退。庶几善始善莫，免蹈大戾乎？
 
-## 应当重视电影《武训传》的讨论（一九五一年五月二十日）
+## 为政篇·致诸弟·喜述大考升官第一百四十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510520.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_236815f8b0b7.aspx
+- excerpt: 三月初六巳刻，奉上谕于初十日大考翰詹，余心甚著急，缘写作俱生，恐不能完卷。不图十三日早，见等第单，余名次二等第一，遂得仰荷天恩；赏擢不次，以翰林院侍讲升用。格外之恩，非常之荣，将来何以报称？惟有时时惶悚，思有补于万一而已。
 
-## 三大运动的伟大胜利（一九五一年十月二十三日）
+## 为政篇·禀祖父母·报告荣升侍讲第一百五十
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511023.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_3fee60bed767.aspx
+- excerpt: 祖父母大人万福金安。三月初六日，奉上谕于初十日大考翰詹，在圆明园正大光明殿考试。初闻之，诚惶诚恐，盖久不作赋，率亦生疏。向来大考，大约六年一次，此间自巳亥岁二月大考到今，仅满四年，万不料有此一举。故同人闻命下之时，无不惶怕！
 
-## 关于“三反”、“五反”的斗争（一九五一年十一月――一九五二年三月）
+## 为政篇·禀祖父母·报告考差信第一百五十一
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_adfec4416b43.aspx
+- excerpt: 祖父母大人万福金安。五月廿九日接到家中第二号信，系三月初一发。六月初二日接第三号信，系四月十八发的，具悉家中老幼平安，百事顺遂，欣幸之至！六弟下省读书，从其所愿，情意既畅，志气必奋，将来必有大成，可为祖父预贺。祖父去岁曾赐孙手书，今年又已半年，不知目力如何？下次信来，仍求亲笔书数语示孙。大考音信，不知开销报人钱若干？
 
-## 把农业互助合作当作一件大事去做（一九五一年十二月十五日）
+## 为政篇·禀祖父母·报告补侍读第一百五十二
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511215.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_7dfb8ae6bbb0.aspx
+- excerpt: 祖父母大人万福金安。廿九日祖母大人寿辰，孙等叩头遥祝，寓中客一席，次日请同县公车一席。初七日皇上御门，孙得转补翰林院侍读，听遗侍讲缺，许乃钊补升。诗讲转侍读，照例不谢恩，故孙未具折谢恩。今冬京中未得厚雪，初九日设三坛求雪，四五六阿哥诣三坛行礼，皇上亲诣大高殿行礼。十一日即得大雪，天心感召，呼吸相通，良可贺也！
 
-## 元旦祝词（一九五二年一月一日）
+## 为政篇·致诸弟·喜述得会试房差第一百五十三
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520101.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f26416163ee4.aspx
+- excerpt: 三月初六日，蒙皇上天恩，得会试分差，即于是日始阅卷。十八房每位分卷二百七十余，到廿三日头场即已看毕，廿四看二三场，到四月初四皆看完。各房荐卷，多少不等，多者或百余，少者亦荐六十四卷，而惟余中卷独多，共中十九人，他房皆不能及。十一日发榜，余即于是日出闱，在场月余，极清吉。
 
-## 中共中央关于西藏工作方针的指示（一九五二年四月六日）
+## 为政篇·致诸弟·喜述升詹事府右春坊右庶子第一百五十四
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520406.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_fa56c5c27e92.aspx
+- excerpt: 初二早，皇上御门办事。余蒙天恩，得升詹事府右春坊右庶子。次日具折谢恩，蒙召见勤政殿天语垂问，共四十余句。是日同升官者，李菡升都察院左副都御史，罗停衍升通政司副使，及余共三人。余蒙祖父金泽，频叨分之荣，此次升官，尤出意外，日夜恐惧修，实无德足以当之。诸弟远隔数千里，必须匡我之不逮，时时寄书现我之过。务使累切积德，不自我一人而呼，则庶几持盈保民，得免带致颠危，诸弟能常进箴规，则弟即吾之良师益友也。诸弟亦宜常存敬畏，勿谓家有人作官，而遂敢于侮…
 
-## 工人阶级与资产阶级的矛盾是国内的主要矛盾（一九五二年六月六日）
+## 为政篇·禀父母·万望匆入署说公事第一百五十五
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520606.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_27acf12f12fb.aspx
+- excerpt: 父母亲大人膝下：十七日接到诸弟四月廿二日在县所发信，欣悉九弟是取前列第三，余三弟皆取二十名，欢欣之至！诸弟前付诗文到京，兹特请杨春皆改正会回，今年噬进甚速，良可欣慰！向来六弟文笔最矫健，四弟文笔清贵，近来为仁矣一篇，季弟秀雅，男再三审览，实堪怡悦。
 
-## （一九五二年八月四日）：团结起来，划清敌我界限
+## 为政篇·禀叔父母·报告升翰林院侍读学士第一百五十六
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520804.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_f1fcccb08850.aspx
+- excerpt: 叔父母大八万福金安。廿三日四弟六弟到京，体气如常。廿四日，是上御门，侄得升翰林院侍读学士。不过四五次，在京各官缺出，此时未经放人者，则侯御门时特简放，以示爵人于朝，与众共之意。侄三次阈官，皆御门时特擢，天恩高厚，不知所报。便合室平安，身上疮癣，尚末尽净，惟面上于半月内全好，故谢恩召见，不到陨越以贻羞，此尤大幸也！
 
-## 祝贺中国人民志愿军的重大胜利（一九五二年十月二十四日）
+## 为政篇·禀父母·敬请祖父换蓝顶第一百五十七
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19521024.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_86646330cfb5.aspx
+- excerpt: 父母亲大人万福金安；念九日接到手谕。系九月底在县城所发者。男等在京平安，身上癣毒，至今未得全好。中间自九月中旬数日，即将面上痊愈，毫无疤痕，系陈医士之力，故升官时召见，无陨越之虑。十月下半月，又觉微有痕迹，头上仍有白皱皮，身上尚如九月之常，照前七八月，则已去大音矣。一切饮食起居，毫无患苦。四弟六弟，用功皆有定课，昨二十八始开课作文。孙男纪泽，《郑风》已读毕，古诗十九首亦已读毕，男妇及三孙女皆平顺。
 
-## 反对官僚主义、命令主义和违法乱纪（一九五三年一月五日）
+## 为政篇·禀父母·拟为六弟纳监第一百五十八
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530105.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_c12ad43c2de9.aspx
+- excerpt: 父母亲大人万福金安。男头上疮癣，至今款愈。近日每天洗两次，夜洗药水，早洗开水，本无大毒，或可因勒洗而好。闻四弟言，家中连年生热毒者八人，并男共九人，恐祖坟有不净处，望时时打扫，但不可妄为动土，致惊幽灵。
 
-## 批判大汉族主义（一九五三年三月十六日）
+## 为政篇·禀父母·报告两次兼职第一百五十九
 
-- group: 毛泽东著作
-- source: https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm
-- excerpt: [中文马克思主义文库](../index.html) -> [毛泽东](index.htm)
+- group: 曾国藩家书
+- source: https://www.gushiwen.cn/guwen/bookv_a91dd1c9ede3.aspx
+- excerpt: 父母亲大人万福金安。乙巳十一月廿二日，同乡彭棣搂放广西思恩府知府，廿四日陈岱云放江西吉安府知府，岱云年仅三十二岁，而以翰林出为太守，亦的来所见者，人皆代渠庆幸，而渠深以未得主考学政为恨。且近日外官情形，动多掣肘，不如京官清贵安稳，能得外差，固为幸事，即不得差，亦可读书养望，不染尘埃。岱云虽以得郡为荣，仍以失去玉堂为海，自放官后，摒挡月余，已于十二月廿八日出京。是夕，渠有家书到京，男拆开，接大人十一月廿四所示手谕，内叔父及九弟季弟各一信，…

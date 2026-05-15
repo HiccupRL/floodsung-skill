@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-05-15T05:48:32+00:00",
-  "total_items": 200,
+  "generated_at": "2026-05-15T07:37:09+00:00",
+  "total_items": 393,
   "counts_by_collection": {
-    "maozedong": 200
+    "wang_yangming": 44,
+    "zeng_guofan": 349
   },
   "source_ids": [
     "maozedong_marxists_cn",
     "wang_yangming_wikisource",
-    "zeng_guofan_wikisource"
+    "zeng_guofan_wikisource",
+    "gmw_maozedong",
+    "gushiwen_wang_yangming",
+    "gushiwen_zeng_guofan"
   ],
-  "source_errors": [
-    {
-      "source_id": "wang_yangming_wikisource",
-      "error": "robots.txt disallows https://zh.wikisource.org/w/api.php"
-    },
-    {
-      "source_id": "zeng_guofan_wikisource",
-      "error": "robots.txt disallows https://zh.wikisource.org/w/api.php"
-    }
-  ],
+  "source_errors": [],
   "note": "Each item preserves source_url, license_note, and risk_note. Review rights before redistribution."
 }

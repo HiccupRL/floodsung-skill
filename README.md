@@ -1,111 +1,112 @@
-# dao-corpus-skill
+# Chinese Thought Corpus (Dao-Skill)
 
-一个 Dao skill，面向三类中文思想材料的语料检索、对照阅读、观点归纳与写作辅助：
+**“马克思主义基本原理同中国具体实际相结合、同中华优秀传统文化相结合”**——这是新时代中国特色社会主义思想的深刻命题，也是我们构建此知识库的初衷与内核。
 
-1. 毛泽东选集 / 毛泽东著作
-2. 王阳明心学 / 传习录
-3. 曾国藩家书 / 书信材料
+本语料库（Chinese Thought Corpus）是一个高度结构化、可追溯、可检索的思想级知识库技能 (Dao Skill)。我们不仅希望它是一个简单的“电子书堆填区”，更希望它成为一座跨越时空、连接马克思主义辩证法与中华优秀传统文化的“思想桥梁”。
 
-仓库采用 `SKILL.md + references/ + data/ + scripts/ + config/` 的组织方式，方便后续继续扩充 corpus、生成索引、在 Claude Code 中按原典回答问题。
+语料库精选并收录了三类深具代表性的中文思想材料：
+1. **毛泽东著作 / 毛泽东选集**：代表了马克思主义中国化的伟大实践与认识论的高峰（如《实践论》《矛盾论》），侧重于唯物辩证法、群众路线与实践真知。
+2. **王阳明心学 / 传习录**：代表了中华传统心学思想的集大成，侧重于“知行合一”、“致良知”与“事上磨炼”。
+3. **曾国藩家书 / 冰鉴等书信材料**：代表了传统士大夫在修身、齐家、治国、平天下过程中的入世智慧与实干精神。
+
+本仓库通过 `SKILL.md + references/ + data/ + scripts/ + config/` 的组织方式，提供一套自动化抓取、深度清理、多维索引的机制，使得这些经典文献能够在现代 AI (如 Claude Code、Trae) 的驱动下，焕发出新的生命力，辅助我们进行跨时代的对照阅读与理论研究。
+
+---
+
+## 核心理念与理论深度
+
+本语料库在构建和使用时，始终遵循以下几个核心理论视角：
+
+### 1. 坚持“正本清源”，拒绝低质碎片化
+当前互联网充斥着大量的“快餐式”解读和“成功学”语录。本语料库拒绝未经考证的拼凑，**所有抓取的语料必须保留明确的来源 URL、作者信息与历史许可**。我们深入清理了多余的 UI 元素、无效链接、网页导航等“噪音”，只保留最纯粹的思想原文。这不仅是对历史的尊重，更是保证大模型语料对齐（Alignment）质量的基石。
+
+### 2. 探寻“第二个结合”的思想纽带
+《实践论》中的“知和行的具体的历史的统一”，与王阳明的“知行合一”有着跨越时空的对话空间。通过本语料库的对照阅读，可以清晰地观察到马克思主义认识论是如何在吸收中华优秀传统文化的基础上，完成中国化并指导中国革命伟大实践的。
+
+### 3. 从“心性修养”到“客观规律”
+曾国藩的“扎硬寨，打呆仗”与毛泽东的“持久战”、“实事求是”在方法论上有何异同？通过自动生成的交叉索引，研究者可以快速在库中检索“实践”、“修身”、“调查”等核心概念，透视不同历史背景下思想家们如何处理“主观能动性”与“客观规律性”的矛盾。
+
+---
 
 ## 目录结构
 
 | 路径 | 作用 |
 | --- | --- |
-| `SKILL.md` | Skill 入口 prompt：触发条件、材料范围、回答原则、反模式 |
-| `config/sources.yaml` | 可抓取来源 allowlist、许可说明、版权风险备注 |
-| `scripts/scraper.py` | 主抓取脚本：从 Wikisource / Marxists Internet Archive 等公开来源抓取材料 |
-| `scripts/build_references.py` | 从语料生成概念索引、来源索引、摘录索引和阅读流程 |
-| `scripts/check_repo.py` | 检查仓库是否仍残留旧关键词、JSON 是否有效、关键文件是否存在 |
-| `references/` | 自动或半自动生成的阅读索引 |
-| `data/corpus/` | 抓取后的结构化语料；已提交一小批 seed corpus 方便先验证功能 |
+| `SKILL.md` | Skill 入口 prompt：明确触发条件、材料范围、回答原则与反模式，指引大模型正确调用本库。 |
+| `config/sources.yaml` | 可抓取来源 allowlist，严格限定合法的公版或权威发布源（如马克思主义文库、光明网、古诗文网等）。 |
+| `scripts/scraper.py` | 主抓取脚本：根据配置自动化抓取、去噪、HTML 转 Markdown，并严格结构化入库。 |
+| `scripts/clean_corpus.py` | 语料清洗脚本：深度清理抓取到的网页导航、广告、冗余链接与无意义图片，实现**正本清源**。 |
+| `scripts/build_references.py` | 索引生成器：从清洗后的语料中提炼生成概念索引、来源索引、代表性摘录和阅读流程。 |
+| `references/` | 自动生成的深度阅读指南与跨文本索引体系。 |
+| `data/corpus/` | 抓取、清洗后落地的结构化 JSON 与 Markdown 汇编文件。 |
 
-## 安装
+---
+
+## 快速上手与验证
+
+### 1. 环境准备
 
 ```bash
 python3 -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate  # Windows 用户使用 .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 快速验证
+### 2. 检索体验
 
-仓库已经包含一小批 seed corpus，可先直接测试：
+仓库内已内置抓取并清洗完成的高质量语料（总计数百篇），您可以直接通过命令行工具进行快速检索体验：
 
 ```bash
 bash references/search_corpus.sh "知行合一"
-bash references/search_corpus.sh "调查"
-bash references/search_corpus.sh "立志"
-python scripts/build_references.py --data data/corpus --out references
-python scripts/check_repo.py
+bash references/search_corpus.sh "调查研究"
+bash references/search_corpus.sh "修身"
 ```
 
-## 抓取更多语料
+---
 
+## 语料库的构建与更新流程
+
+若需进一步扩大语料范围或更新本地数据，请遵循以下标准化流程：
+
+### 1. 抓取原始语料
+根据 `config/sources.yaml` 配置的白名单，执行自动化抓取：
 ```bash
+# Windows 环境建议设置编码：$env:PYTHONIOENCODING="utf-8"
 python scripts/scraper.py \
   --config config/sources.yaml \
   --out data/corpus \
-  --max-pages-per-source 200 \
-  --sleep 0.8
+  --max-pages-per-source 500
 ```
 
-脚本会生成：
+### 2. 正本清源（深度清洗）
+剔除抓取过程中带入的网页导航、Markdown 链接残余、无用图片等，确保数据的高质量：
+```bash
+python scripts/clean_corpus.py
+```
 
-- `data/corpus/all.json`
-- `data/corpus/<collection>.json`
-- `data/corpus/<collection>.md`
-- `data/summary.json`
-
-## 生成 references
-
+### 3. 重构理论索引
+基于最新语料，重新提炼主题概念和来源出处：
 ```bash
 python scripts/build_references.py --data data/corpus --out references
 ```
 
-会生成或更新：
+---
 
-- `references/source_index.md`
-- `references/core_concepts.md`
-- `references/quote_index.md`
-- `references/reading_workflow.md`
-- `references/search_corpus.sh`
+## 版权与合规声明
 
-## 检查仓库
+1. **代码开源**：本仓库的代码及脚本工具采用 MIT 许可证。
+2. **语料溯源**：本仓库抓取到的文本内容不改变原有的版权授权；每条语料的 JSON 结构中均完整保留了其来源 URL、来源项目说明与许可备注。
+3. **公版优先**：古籍与公版材料（如传习录、曾国藩家书）优先使用明确的开放源；现代政治理论文献主要来源于公开的官方/理论宣发平台。
+4. **免责声明**：本仓库优先提供**可复现的抓取、清洗与索引思想体系的方法论与流程**。运行抓取脚本前，请确认您的具体使用场景、所在地法律和目标来源许可相容。
 
-```bash
-python scripts/check_repo.py
-```
+---
 
-检查项包括：
+## AI 时代下的使用范式 (Claude Code / Trae)
 
-- 必要文件是否存在
-- `data/corpus/*.json` 是否可解析
-- 语料条目是否有 `title/source_url/text/license_note`
-- 是否残留旧关键词
+本语料库是为现代 AI Agent 原生设计的。您可以将其接入大模型的上下文环境（如 Claude Code 或 Trae），并提出具有理论深度的研究课题。例如：
 
-## 版权与来源说明
+- *“请基于库中语料，对比《实践论》的‘实践第一’与王阳明的‘事上磨炼’在方法论上的异同。”*
+- *“在曾国藩家书和毛泽东著作中，分别是如何论述‘主观能动性’的？请给出原典摘录和理论分析。”*
+- *“提取毛泽东、王阳明、曾国藩三类材料中关于‘知行统一’的核心论述，并为我生成一份研究备忘录。”*
 
-本仓库的代码采用 MIT 许可证。抓取到的文本不统一改授权；每条语料保留其来源 URL、来源项目说明与许可备注。
-
-- 古籍与公版材料优先使用开放来源。
-- Marxists Internet Archive 自述为非营利公共图书馆，其内容免费，并标注为公共领域、GFDL 或经权利人许可；脚本仍会记录风险说明。
-- seed corpus 主要用于功能验证；正式研究或公开分发前，请重新运行抓取脚本并核对具体版本、来源与许可。
-
-## Claude Code 使用方式
-
-```bash
-mkdir -p ~/.claude/skills/chinese-thought-corpus
-cp SKILL.md ~/.claude/skills/chinese-thought-corpus/
-cp -r references ~/.claude/skills/chinese-thought-corpus/
-```
-
-之后可以问：
-
-- 基于语料比较《实践论》和王阳明的知行合一。
-- 给我做一份曾国藩家书里关于勤俭的主题笔记。
-- 从毛泽东、王阳明、曾国藩三类材料里抽取一个关于行动力的方法论。
-
-## 重要声明
-
-这个仓库优先提供可复现的抓取与索引流程，而不是把版权不明的大体量文本直接塞进 Git。运行抓取脚本前，请确认你的使用场景、所在地法律和目标来源许可相容。特别感谢 https://github.com/floodsung/floodsung-skill 提供了详细的参考和启发。
+思想不会因时间的流逝而褪色，通过高质量语料与 AI 的结合，让我们在重温经典中获得指引现实的力量。

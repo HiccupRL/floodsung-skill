@@ -14,6 +14,8 @@ import hashlib
 import json
 import re
 import time
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urldefrag, urljoin, urlparse
@@ -148,8 +150,13 @@ def link_ok(url: str, src: dict) -> bool:
     if any(re.search(p, url) for p in src.get("exclude_url_regex", [])):
         return False
     inc = src.get("include_url_regex", [])
-    return not inc or any(re.search(p, url) for p in inc)
-
+    if url in src.get("index_urls", []):
+        return True
+    if not inc:
+        return True
+    if any(re.search(p, url) for p in inc):
+        return True
+    return False
 
 def scrape_mia(c: Client, src: dict, max_pages: int) -> list[dict]:
     out, seen = [], set()
@@ -165,16 +172,34 @@ def scrape_mia(c: Client, src: dict, max_pages: int) -> list[dict]:
             print(f"[warn] {url}: {e}")
             continue
         soup = BeautifulSoup(html, "lxml")
+        
+        # In gushiwen, links are often relative like "/guwen/bookv_xxxx.aspx"
+        # Let's extract ALL links first
         for a in soup.find_all("a", href=True):
-            u = canon(urljoin(url, a["href"]))
-            if link_ok(u, src) and u not in seen and u not in q and len(q) < max_pages * 5:
-                q.append(u)
+            href = a["href"]
+            # urljoin naturally handles both relative and absolute links
+            u = canon(urljoin(url, href))
+            
+            # Follow redirects if possible or clean up the URL to prevent mobile versions from missing out
+            u = u.replace("m.gushiwen.cn", "www.gushiwen.cn")
+            
+            # Print for debug
+            if link_ok(u, src):
+                if u not in seen and u not in q:
+                    q.append(u)
+                    
         if url in src.get("index_urls", []):
             continue
         title = (soup.find("h1") or soup.title)
         title_text = title.get_text(" ", strip=True) if title else url
-        main = soup.find("main") or soup.find(id="content") or soup.find("body") or soup
-        text = clean_html(str(main))
+        
+        contsons = soup.find_all("div", class_="contson")
+        if contsons:
+            text = "\n\n".join(clean_html(str(c)) for c in contsons)
+        else:
+            main = soup.find("main") or soup.find(id="content") or soup.find("body") or soup
+            text = clean_html(str(main))
+            
         if len(text) < 250 or not title_ok(title_text + text[:500], src):
             continue
         out.append(record(src, title_text, url, text))
@@ -184,10 +209,28 @@ def scrape_mia(c: Client, src: dict, max_pages: int) -> list[dict]:
 
 def dump(items: list[dict], out: Path, cfg: dict, source_errors: list[dict] | None = None) -> None:
     out.mkdir(parents=True, exist_ok=True)
-    by = {}
+    
+    # Load existing data to merge instead of overwrite
+    existing_items = []
+    all_json_path = out / "all.json"
+    if all_json_path.exists():
+        try:
+            with open(all_json_path, 'r', encoding='utf-8') as f:
+                existing_items = json.load(f)
+        except Exception as e:
+            print(f"[warn] Failed to load existing {all_json_path}: {e}")
+            
+    # Merge items based on id
+    merged_items = {it["id"]: it for it in existing_items}
     for it in items:
+        merged_items[it["id"]] = it
+        
+    merged_list = list(merged_items.values())
+    
+    by = {}
+    for it in merged_list:
         by.setdefault(it["collection"], []).append(it)
-    (out / "all.json").write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
+    (out / "all.json").write_text(json.dumps(merged_list, ensure_ascii=False, indent=2), encoding="utf-8")
     for name, recs in sorted(by.items()):
         (out / f"{slug(name)}.json").write_text(json.dumps(recs, ensure_ascii=False, indent=2), encoding="utf-8")
         lines = [f"# {name}\n", f"Total: {len(recs)}\n"]
@@ -196,7 +239,7 @@ def dump(items: list[dict], out: Path, cfg: dict, source_errors: list[dict] | No
                       f"- group: {r['group']}", f"- source: {r['source_url']}",
                       f"- license: {r['license_note']}", f"- risk: {r['risk_note']}\n", r["text"], ""]
         (out / f"{slug(name)}.md").write_text("\n".join(lines), encoding="utf-8")
-    summary = {"generated_at": now(), "total_items": len(items),
+    summary = {"generated_at": now(), "total_items": len(merged_list),
                "counts_by_collection": {k: len(v) for k, v in sorted(by.items())},
                "source_ids": [s.get("id") for s in cfg.get("sources", []) if s.get("enabled", True)],
                "source_errors": source_errors or [],
