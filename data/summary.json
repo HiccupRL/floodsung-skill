@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T16:54:02.515890+00:00",
+  "generated_at": "2026-05-18T17:55:11.643984+00:00",
   "total_items": 531,
   "counts_by_collection": {
     "maozedong": 326,
@@ -22,19 +22,19 @@
   "source_errors": [
     {
       "source_id": "wang_yangming_wikisource",
-      "error": "諭俗文: missing"
+      "error": "谕俗文: missing"
     },
     {
       "source_id": "wang_yangming_wikisource",
-      "error": "鄉約告諭: missing"
+      "error": "乡约告谕: missing"
     },
     {
       "source_id": "wang_yangming_wikisource",
-      "error": "告諭: missing"
+      "error": "告谕: missing"
     },
     {
       "source_id": "wang_yangming_wikisource",
-      "error": "平浰頭碑: request failed after retries, likely rate limited"
+      "error": "平浰头碑: request failed after retries, likely rate limited"
     }
   ]
 }

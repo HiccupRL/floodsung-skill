@@ -31,87 +31,106 @@ COLLECTION_LABELS = {
 
 TRAD_TO_SIMP = str.maketrans(
     {
-        "傳": "传",
-        "習": "习",
-        "錄": "录",
-        "陽": "阳",
-        "國": "国",
+        "\u50b3": "传",
+        "\u7fd2": "习",
+        "\u9304": "录",
+        "\u967d": "阳",
+        "\u570b": "国",
         "藩": "藩",
-        "書": "书",
-        "劄": "札",
-        "訓": "训",
-        "實": "实",
-        "踐": "践",
-        "調": "调",
+        "\u66f8": "书",
+        "\u5284": "札",
+        "\u8a13": "训",
+        "\u5be6": "实",
+        "\u8e10": "践",
+        "\u8abf": "调",
         "查": "查",
-        "眾": "众",
-        "為": "为",
-        "爲": "为",
-        "與": "与",
-        "無": "无",
-        "後": "后",
-        "學": "学",
-        "問": "问",
-        "論": "论",
-        "戰": "战",
-        "爭": "争",
-        "強": "强",
-        "務": "务",
-        "誠": "诚",
-        "義": "义",
-        "禮": "礼",
-        "樂": "乐",
-        "聖": "圣",
-        "賢": "贤",
-        "聞": "闻",
-        "見": "见",
-        "處": "处",
-        "進": "进",
-        "開": "开",
-        "門": "门",
-        "倫": "伦",
-        "齊": "齐",
-        "節": "节",
-        "體": "体",
-        "變": "变",
-        "險": "险",
-        "階": "阶",
-        "應": "应",
-        "觀": "观",
-        "點": "点",
-        "對": "对",
-        "錯": "错",
-        "說": "说",
-        "時": "时",
-        "將": "将",
-        "導": "导",
-        "術": "术",
-        "權": "权",
-        "決": "决",
-        "斷": "断",
-        "證": "证",
-        "驗": "验",
-        "內": "内",
-        "邊": "边",
-        "憂": "忧",
-        "歸": "归",
-        "復": "复",
-        "雜": "杂",
-        "偽": "伪",
-        "發": "发",
-        "從": "从",
-        "獨": "独",
-        "終": "终",
-        "帶": "带",
-        "軍": "军",
-        "務": "务",
-        "讓": "让",
-        "滿": "满",
-        "臨": "临",
-        "檢": "检",
+        "\u773e": "众",
+        "\u70ba": "为",
+        "\u7232": "为",
+        "\u8207": "与",
+        "\u7121": "无",
+        "\u5f8c": "后",
+        "\u5b78": "学",
+        "\u554f": "问",
+        "\u8ad6": "论",
+        "\u6230": "战",
+        "\u722d": "争",
+        "\u5f37": "强",
+        "\u52d9": "务",
+        "\u8aa0": "诚",
+        "\u7fa9": "义",
+        "\u79ae": "礼",
+        "\u6a02": "乐",
+        "\u8056": "圣",
+        "\u8ce2": "贤",
+        "\u805e": "闻",
+        "\u898b": "见",
+        "\u8655": "处",
+        "\u9032": "进",
+        "\u958b": "开",
+        "\u9580": "门",
+        "\u502b": "伦",
+        "\u9f4a": "齐",
+        "\u7bc0": "节",
+        "\u9ad4": "体",
+        "\u8b8a": "变",
+        "\u96aa": "险",
+        "\u968e": "阶",
+        "\u61c9": "应",
+        "\u89c0": "观",
+        "\u9ede": "点",
+        "\u5c0d": "对",
+        "\u932f": "错",
+        "\u8aaa": "说",
+        "\u6642": "时",
+        "\u5c07": "将",
+        "\u5c0e": "导",
+        "\u8853": "术",
+        "\u6b0a": "权",
+        "\u6c7a": "决",
+        "\u65b7": "断",
+        "\u8b49": "证",
+        "\u9a57": "验",
+        "\u5167": "内",
+        "\u908a": "边",
+        "\u6182": "忧",
+        "\u6b78": "归",
+        "\u5fa9": "复",
+        "\u96dc": "杂",
+        "\u507d": "伪",
+        "\u767c": "发",
+        "\u5f9e": "从",
+        "\u7368": "独",
+        "\u7d42": "终",
+        "\u5e36": "带",
+        "\u8ecd": "军",
+        "\u52d9": "务",
+        "\u8b93": "让",
+        "\u6eff": "满",
+        "\u81e8": "临",
+        "\u6aa2": "检",
         "索": "索",
     }
 )
+
+_OPENCC = None
+_OPENCC_READY = False
+
+
+def to_simplified(value: str | None) -> str:
+    global _OPENCC, _OPENCC_READY
+    text = value or ""
+    if not _OPENCC_READY:
+        _OPENCC_READY = True
+        try:
+            from opencc import OpenCC
+
+            _OPENCC = OpenCC("t2s")
+        except Exception:
+            _OPENCC = None
+    if _OPENCC is not None:
+        return _OPENCC.convert(text)
+    return text.translate(TRAD_TO_SIMP)
 
 NOISE_TEXT_MARKERS = (
     "全部导航",
@@ -123,10 +142,10 @@ NOISE_TEXT_MARKERS = (
     "新闻表情排行",
     "光明网版权所有",
     "正在阅读：",
-    "跳至內容",
-    "主選單",
+    "跳至内容",
+    "主选单",
     "个人工具",
-    "檢視歷史",
+    "检视历史",
     "隐私政策",
 )
 
@@ -167,7 +186,7 @@ def normalise_space(value: str | None) -> str:
 
 
 def normalise_for_search(value: str | None) -> str:
-    return normalise_space(value).translate(TRAD_TO_SIMP).lower()
+    return to_simplified(normalise_space(value)).lower()
 
 
 def strip_markup(value: str | None) -> str:
@@ -175,15 +194,15 @@ def strip_markup(value: str | None) -> str:
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"\*\*([^*]+)\*\*", r"\1", text)
     text = re.sub(r"<[^>]+>", " ", text)
-    return normalise_space(text)
+    return to_simplified(normalise_space(text))
 
 
 def clean_text(value: str | None) -> str:
     text = strip_markup(value)
     text = re.sub(r"\*\*\*\s*START OF THE PROJECT GUTENBERG EBOOK.*?\*\*\*", " ", text, flags=re.I)
     text = re.sub(r"\*\*\*\s*END OF THE PROJECT GUTENBERG EBOOK.*", " ", text, flags=re.I)
-    text = re.sub(r"Produced by .*?(?=傳習錄|传习录)", " ", text, flags=re.I)
-    text = re.sub(r"Project Gutenberg[^。]*?(?=傳習錄|传习录)", " ", text, flags=re.I)
+    text = re.sub(r"Produced by .*?(?=传习录)", " ", text, flags=re.I)
+    text = re.sub(r"Project Gutenberg[^。]*?(?=传习录)", " ", text, flags=re.I)
     text = text.replace("_古文岛_原古诗文网", " ")
     text = text.replace("中文马克思主义文库 -> 毛泽东", " ")
     text = re.sub(r"古文岛 推荐 诗文 名句 古籍 作者 字词 APP 登录.*?您的浏览器不支持 audio 元素。", " ", text)
@@ -194,10 +213,10 @@ def clean_text(value: str | None) -> str:
     text = re.sub(r"毛选[一二三四五六七八九十]+卷删改版：", " ", text)
     text = re.sub(r"^APP\s*\[\s*登录\s*\]\([^)]*\)\s*\d+\s*#\s*\*\*[^*]+\*\*\s*", "", text)
     text = re.sub(r"\s+完善\s*$", "", text)
-    text = re.sub(r"\[[编辑校对注释參考资料來源]+\]", "", text)
+    text = re.sub(r"\[[编辑校对注释参考资料来源]+\]", "", text)
     text = re.sub(r"取自「https?://[^」]+」", "", text)
-    text = re.sub(r"此頁面最後編輯於.*", "", text)
-    return normalise_space(text)
+    text = re.sub(r"此页面最后编辑于.*", "", text)
+    return to_simplified(normalise_space(text))
 
 
 def sha1_text(*parts: str, length: int = 16) -> str:
@@ -228,16 +247,18 @@ def first_match(patterns: Iterable[str] | None, text: str) -> str | None:
 
 
 def derive_work(collection: str, title: str, source_work: str = "") -> tuple[str, str]:
+    title = to_simplified(normalise_space(title))
+    source_work = to_simplified(source_work)
     if collection == "wang_yangming":
-        if title.startswith("傳習錄（") or title.startswith("传习录（"):
-            return "傳習錄", "全文备选"
-        if title.startswith("傳習錄/") or title.startswith("传习录/"):
-            return "傳習錄", title.split("/", 1)[1]
-        if title == "傳習錄" or title == "传习录":
-            return "傳習錄", ""
+        if title.startswith("传习录（"):
+            return "传习录", "全文备选"
+        if title.startswith("传习录/"):
+            return "传习录", title.split("/", 1)[1]
+        if title == "传习录":
+            return "传习录", ""
         return title.split("/", 1)[0], title.split("/", 1)[1] if "/" in title else ""
     if collection == "zeng_guofan":
-        for prefix in ("曾文正公家書", "曾文正公書劄", "曾文正公家訓"):
+        for prefix in ("曾文正公家书", "曾文正公书札", "曾文正公家训"):
             if title.startswith(prefix):
                 return prefix, title[len(prefix) :].lstrip("/")
         return source_work or "曾文正公全集", title
@@ -248,8 +269,8 @@ def derive_work(collection: str, title: str, source_work: str = "") -> tuple[str
 
 def quality_flags(item: dict, source: dict | None = None) -> list[str]:
     flags = []
-    title = normalise_space(item.get("title"))
-    text = normalise_space(item.get("text_clean") or item.get("text") or item.get("raw_text"))
+    title = to_simplified(normalise_space(item.get("title")))
+    text = to_simplified(normalise_space(item.get("text_clean") or item.get("text") or item.get("raw_text")))
     combined = f"{title}\n{text}"
 
     if len(text) < 80:
@@ -261,19 +282,22 @@ def quality_flags(item: dict, source: dict | None = None) -> list[str]:
         flags.append("navigation_text")
 
     if source:
-        if first_match(source.get("title_exclude_patterns"), title):
+        title_exclude = source.get("title_exclude_patterns") or []
+        title_exclude = list(title_exclude) + [to_simplified(pattern) for pattern in title_exclude]
+        if first_match(title_exclude, title):
             flags.append("title_excluded")
         required = source.get("title_required_patterns") or []
+        required = list(required) + [to_simplified(pattern) for pattern in required]
         if required and not any_pattern(required, title):
             flags.append("title_required_missing")
 
     collection = item.get("collection")
     if collection == "wang_yangming" and re.search(
-        r"孙子兵法|孫子兵法|格言联璧|格言聯璧|始计篇|始計篇|作战篇|作戰篇|军形篇|軍形篇|兵势篇|兵勢篇|虚实篇|虛實篇|军争篇|軍爭篇|九变篇|九變篇|行军篇|行軍篇|地形篇|九地篇|火攻篇|用间篇|用間篇",
+        r"孙子兵法|格言联璧|始计篇|作战篇|军形篇|兵势篇|虚实篇|军争篇|九变篇|行军篇|地形篇|九地篇|火攻篇|用间篇",
         title,
     ):
         flags.append("known_wang_pollution")
-    if collection == "zeng_guofan" and re.search(r"西厢记|西廂記|第[一二三四五六七八九十百零〇]+回|第[一二三四五六七八九十百零〇]+本|折$", title):
+    if collection == "zeng_guofan" and re.search(r"西厢记|第[一二三四五六七八九十百零〇]+回|第[一二三四五六七八九十百零〇]+本|折$", title):
         flags.append("known_zeng_pollution")
     if collection == "maozedong" and "全部导航" in combined:
         flags.append("known_mao_navigation")
@@ -395,22 +419,22 @@ def mao_article_from_url(source_url: str) -> str:
 
 
 def citation_label(item: dict) -> str:
-    author = normalise_space(item.get("author"))
+    author = to_simplified(normalise_space(item.get("author")))
     collection = item.get("collection", "")
-    work = normalise_space(item.get("work"))
-    title = normalise_space(item.get("title"))
-    section = normalise_space(item.get("section"))
+    work = to_simplified(normalise_space(item.get("work")))
+    title = to_simplified(normalise_space(item.get("title")))
+    section = to_simplified(normalise_space(item.get("section")))
 
     if collection == "wang_yangming":
-        if title.startswith("傳習錄/") or title.startswith("传习录/"):
+        if title.startswith("传习录/"):
             section = section or title.split("/", 1)[1]
-            return f"{author}《傳習錄》{section}"
-        if title.startswith("傳習錄（") or title.startswith("传习录（"):
-            return f"{author}《傳習錄》全文备选"
+            return f"{author}《传习录》{section}"
+        if title.startswith("传习录（"):
+            return f"{author}《传习录》全文备选"
         return f"{author}《{title or work}》"
 
     if collection == "zeng_guofan":
-        base = "曾国藩家书" if "家书" in work or "家書" in work else work or "曾国藩家书"
+        base = "曾国藩家书" if "家书" in work else work or "曾国藩家书"
         return f"{author}《{base}》{section or title}"
 
     if collection == "maozedong":

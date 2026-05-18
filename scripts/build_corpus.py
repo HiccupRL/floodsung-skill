@@ -19,6 +19,7 @@ from corpus_lib import (
     quality_flags,
     read_json,
     sha1_text,
+    to_simplified,
     write_json,
 )
 
@@ -37,6 +38,7 @@ def iter_raw(input_dir: Path):
 
 
 def trim_to_title_anchor(text: str, title: str) -> str:
+    title = to_simplified(title)
     markers = [
         title,
         title.split("（", 1)[0],
@@ -58,7 +60,7 @@ def trim_to_title_anchor(text: str, title: str) -> str:
 
 
 def collapse_repeated_title(text: str, title: str) -> str:
-    title = normalise_space(title)
+    title = to_simplified(normalise_space(title))
     if not title or not text.startswith(title):
         return text
     rest = text[len(title) :].lstrip()
@@ -68,7 +70,7 @@ def collapse_repeated_title(text: str, title: str) -> str:
 
 
 def build_entry(raw: dict, source: dict | None) -> dict:
-    title = normalise_space(raw.get("title"))
+    title = to_simplified(normalise_space(raw.get("title")))
     text_clean = clean_text(raw.get("raw_text") or raw.get("text") or "")
     text_clean = trim_to_title_anchor(text_clean, title)
     text_clean = collapse_repeated_title(text_clean, title)
@@ -79,18 +81,18 @@ def build_entry(raw: dict, source: dict | None) -> dict:
     item = {
         "id": entry_id,
         "collection": collection,
-        "group": raw.get("group") or (source or {}).get("group", ""),
-        "author": raw.get("author") or (source or {}).get("author", ""),
+        "group": to_simplified(raw.get("group") or (source or {}).get("group", "")),
+        "author": to_simplified(raw.get("author") or (source or {}).get("author", "")),
         "work": work,
         "title": title,
         "section": section,
         "source_id": raw.get("source_id", ""),
         "source_type": raw.get("source_type", ""),
         "source_url": source_url,
-        "license_note": raw.get("license_note") or (source or {}).get("license_note", ""),
-        "risk_note": raw.get("risk_note") or (source or {}).get("risk_note", ""),
+        "license_note": to_simplified(raw.get("license_note") or (source or {}).get("license_note", "")),
+        "risk_note": to_simplified(raw.get("risk_note") or (source or {}).get("risk_note", "")),
         "retrieved_at": datetime.now(timezone.utc).isoformat(),
-        "text": raw.get("raw_text", ""),
+        "text": text_clean,
         "text_clean": text_clean,
         "checksum": checksum(text_clean),
         "quality_flags": [],
@@ -168,7 +170,10 @@ def main() -> None:
         for flag in item["quality_flags"]:
             summary["rejected_by_flag"][flag] = summary["rejected_by_flag"].get(flag, 0) + 1
     raw_manifest = read_json(input_dir / "manifest.json", default={})
-    summary["source_errors"] = raw_manifest.get("source_errors", [])
+    summary["source_errors"] = [
+        {key: to_simplified(value) if isinstance(value, str) else value for key, value in error.items()}
+        for error in raw_manifest.get("source_errors", [])
+    ]
     write_json(output_dir.parent / "summary.json", summary)
 
 

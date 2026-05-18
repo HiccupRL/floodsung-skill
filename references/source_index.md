@@ -333,16 +333,16 @@
 
 ## 王阳明心学 (10)
 
-- 王守仁《傳習錄》卷上 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A
-- 王守仁《傳習錄》卷下 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8B
-- 王守仁《傳習錄》卷中 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%AD
-- 王守仁《傳習錄》全文备选 — `wang_yangming_gutenberg_fallback` — https://www.gutenberg.org/ebooks/25517.txt.utf-8
-- 王守仁《大學問》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%A4%A7%E5%AD%B8%E5%95%8F
-- 王守仁《尊經閣記》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%B0%8A%E7%B6%93%E9%96%A3%E8%A8%98
+- 王守仁《传习录》卷上 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A
+- 王守仁《传习录》卷下 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8B
+- 王守仁《传习录》卷中 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%AD
+- 王守仁《传习录》全文备选 — `wang_yangming_gutenberg_fallback` — https://www.gutenberg.org/ebooks/25517.txt.utf-8
+- 王守仁《大学问》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%A4%A7%E5%AD%B8%E5%95%8F
+- 王守仁《尊经阁记》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%B0%8A%E7%B6%93%E9%96%A3%E8%A8%98
 - 王守仁《平茶寮碑》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E5%B9%B3%E8%8C%B6%E5%AF%AE%E7%A2%91
-- 王守仁《教條示龍場諸生》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E6%95%99%E6%A2%9D%E7%A4%BA%E9%BE%8D%E5%A0%B4%E8%AB%B8%E7%94%9F
-- 王守仁《瘞旅文》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E7%98%9E%E6%97%85%E6%96%87
-- 王守仁《象祠記》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E8%B1%A1%E7%A5%A0%E8%A8%98
+- 王守仁《教条示龙场诸生》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E6%95%99%E6%A2%9D%E7%A4%BA%E9%BE%8D%E5%A0%B4%E8%AB%B8%E7%94%9F
+- 王守仁《瘗旅文》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E7%98%9E%E6%97%85%E6%96%87
+- 王守仁《象祠记》 — `wang_yangming_wikisource` — https://zh.wikisource.org/wiki/%E8%B1%A1%E7%A5%A0%E8%A8%98
 
 ## 曾国藩家书 (195)
 

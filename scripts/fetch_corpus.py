@@ -12,7 +12,16 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-from corpus_lib import RAW_DIR, configure_utf8_stdio, eprint, load_sources, normalise_space, sha1_text, write_json
+from corpus_lib import (
+    RAW_DIR,
+    configure_utf8_stdio,
+    eprint,
+    load_sources,
+    normalise_space,
+    sha1_text,
+    to_simplified,
+    write_json,
+)
 
 
 def session_for(defaults: dict) -> requests.Session:
@@ -33,7 +42,7 @@ def soup_text(html: str) -> str:
     soup = BeautifulSoup(html, "lxml")
     for tag in soup(["script", "style", "noscript", "nav", "footer"]):
         tag.decompose()
-    return normalise_space(soup.get_text("\n"))
+    return to_simplified(normalise_space(soup.get_text("\n")))
 
 
 def soup_title(html: str, fallback: str = "") -> str:
@@ -43,8 +52,8 @@ def soup_title(html: str, fallback: str = "") -> str:
         if tag:
             title = normalise_space(tag.get_text(" "))
             if title:
-                return re.sub(r"\s*[-|].*$", "", title)
-    return fallback
+                return to_simplified(re.sub(r"\s*[-|].*$", "", title))
+    return to_simplified(fallback)
 
 
 def allowed_url(url: str, source: dict) -> bool:
@@ -74,7 +83,7 @@ def fetch_mia_index(sess: requests.Session, source: dict, defaults: dict, limit:
             if href in seen or not allowed_url(href, source) or href == index_url:
                 continue
             seen.add(href)
-            label = normalise_space(link.get_text(" "))
+            label = to_simplified(normalise_space(link.get_text(" ")))
             candidates.append((href, label))
 
         for href, label in candidates:
@@ -91,14 +100,14 @@ def fetch_mia_index(sess: requests.Session, source: dict, defaults: dict, limit:
                 {
                     "source_id": source["id"],
                     "source_type": source["type"],
-                    "group": source["group"],
+                    "group": to_simplified(source["group"]),
                     "collection": source["collection"],
-                    "author": source["author"],
-                    "source_work": source.get("work", ""),
+                    "author": to_simplified(source["author"]),
+                    "source_work": to_simplified(source.get("work", "")),
                     "title": title or label or href.rsplit("/", 1)[-1],
                     "source_url": href,
-                    "license_note": source.get("license_note", ""),
-                    "risk_note": source.get("risk_note", ""),
+                    "license_note": to_simplified(source.get("license_note", "")),
+                    "risk_note": to_simplified(source.get("risk_note", "")),
                     "raw_text": raw_text,
                 }
             )
@@ -158,7 +167,7 @@ def fetch_wikisource_title(sess: requests.Session, api_url: str, title: str, tim
             "inprop": "url",
             "redirects": 1,
             "titles": title,
-            "variant": "zh-hant",
+            "variant": "zh-hans",
         },
         timeout,
     )
@@ -167,9 +176,9 @@ def fetch_wikisource_title(sess: requests.Session, api_url: str, title: str, tim
         return None
     page = pages[0]
     return {
-        "title": page.get("title", title),
+        "title": to_simplified(page.get("title", title)),
         "source_url": page.get("fullurl") or f"https://zh.wikisource.org/wiki/{title}",
-        "raw_text": page.get("extract", ""),
+        "raw_text": to_simplified(page.get("extract", "")),
     }
 
 
@@ -209,14 +218,14 @@ def fetch_wikisource_pages(sess: requests.Session, source: dict, defaults: dict,
             {
                 "source_id": source["id"],
                 "source_type": source["type"],
-                "group": source["group"],
+                "group": to_simplified(source["group"]),
                 "collection": source["collection"],
-                "author": source["author"],
-                "source_work": source.get("work", ""),
+                "author": to_simplified(source["author"]),
+                "source_work": to_simplified(source.get("work", "")),
                 "title": page["title"],
                 "source_url": page["source_url"],
-                "license_note": source.get("license_note", ""),
-                "risk_note": source.get("risk_note", ""),
+                "license_note": to_simplified(source.get("license_note", "")),
+                "risk_note": to_simplified(source.get("risk_note", "")),
                 "raw_text": page["raw_text"],
             }
         )
@@ -233,7 +242,7 @@ def fetch_plain_text_urls(sess: requests.Session, source: dict, defaults: dict, 
         if limit and len(entries) >= limit:
             break
         try:
-            raw_text = request_text(sess, spec["url"], timeout)
+            raw_text = to_simplified(request_text(sess, spec["url"], timeout))
         except Exception as exc:
             errors.append(f"{spec.get('url')}: {exc}")
             continue
@@ -241,14 +250,14 @@ def fetch_plain_text_urls(sess: requests.Session, source: dict, defaults: dict, 
             {
                 "source_id": source["id"],
                 "source_type": source["type"],
-                "group": source["group"],
+                "group": to_simplified(source["group"]),
                 "collection": source["collection"],
-                "author": source["author"],
-                "source_work": source.get("work", ""),
-                "title": spec.get("title") or source.get("work", ""),
+                "author": to_simplified(source["author"]),
+                "source_work": to_simplified(source.get("work", "")),
+                "title": to_simplified(spec.get("title") or source.get("work", "")),
                 "source_url": spec["url"],
-                "license_note": source.get("license_note", ""),
-                "risk_note": source.get("risk_note", ""),
+                "license_note": to_simplified(source.get("license_note", "")),
+                "risk_note": to_simplified(source.get("risk_note", "")),
                 "raw_text": raw_text,
             }
         )

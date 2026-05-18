@@ -8,7 +8,7 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-from corpus_lib import ALL_CORPUS_FILE, COLLECTIONS, configure_utf8_stdio, quality_flags, read_json
+from corpus_lib import ALL_CORPUS_FILE, COLLECTIONS, configure_utf8_stdio, quality_flags, read_json, to_simplified
 
 REQUIRED_FIELDS = (
     "id",
@@ -20,6 +20,19 @@ REQUIRED_FIELDS = (
     "license_note",
     "risk_note",
     "checksum",
+    "text",
+    "text_clean",
+)
+
+SIMPLIFIED_FIELDS = (
+    "group",
+    "author",
+    "work",
+    "title",
+    "section",
+    "license_note",
+    "risk_note",
+    "text",
     "text_clean",
 )
 
@@ -56,10 +69,15 @@ def main() -> None:
         if flags:
             errors.append(f"{item.get('collection')} / {item.get('title')}: {', '.join(flags)}")
 
+        for field in SIMPLIFIED_FIELDS:
+            value = item.get(field, "")
+            if isinstance(value, str) and value and to_simplified(value) != value:
+                errors.append(f"{item.get('collection')} / {item.get('title')}: field {field} contains traditional Chinese")
+
         title = item.get("title", "")
-        if item.get("collection") == "wang_yangming" and re.search(r"孙子兵法|孫子兵法|格言联璧|格言聯璧", title):
+        if item.get("collection") == "wang_yangming" and re.search(r"孙子兵法|格言联璧", title):
             errors.append(f"known Wang pollution found: {title}")
-        if item.get("collection") == "zeng_guofan" and re.search(r"西厢记|西廂記|第[一二三四五六七八九十百零〇]+回", title):
+        if item.get("collection") == "zeng_guofan" and re.search(r"西厢记|第[一二三四五六七八九十百零〇]+回", title):
             errors.append(f"known Zeng pollution found: {title}")
         if item.get("collection") == "maozedong" and "全部导航" in (title + item.get("text_clean", "")):
             errors.append(f"known Mao navigation pollution found: {title}")

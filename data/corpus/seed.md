@@ -114,7 +114,7 @@ Total: 6
 
 - author: 王守仁
 - group: 王阳明心学
-- source: https://zh.wikisource.org/wiki/傳習錄
+- source: https://zh.wikisource.org/wiki/传习录
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -131,7 +131,7 @@ Total: 6
 
 - author: 王守仁
 - group: 王阳明心学
-- source: https://zh.wikisource.org/wiki/傳習錄
+- source: https://zh.wikisource.org/wiki/传习录
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -148,7 +148,7 @@ Total: 6
 
 - author: 王守仁
 - group: 王阳明心学
-- source: https://zh.wikisource.org/wiki/傳習錄
+- source: https://zh.wikisource.org/wiki/传习录
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -165,7 +165,7 @@ Total: 6
 
 - author: 王守仁
 - group: 王阳明心学
-- source: https://zh.wikisource.org/wiki/傳習錄
+- source: https://zh.wikisource.org/wiki/传习录
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -182,7 +182,7 @@ Total: 6
 
 - author: 王守仁
 - group: 王阳明心学
-- source: https://zh.wikisource.org/wiki/傳習錄
+- source: https://zh.wikisource.org/wiki/传习录
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -197,7 +197,7 @@ Total: 6
 
 - author: 王守仁
 - group: 王阳明心学
-- source: https://zh.wikisource.org/wiki/傳習錄
+- source: https://zh.wikisource.org/wiki/传习录
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -217,7 +217,7 @@ Total: 6
 
 - author: 曾国藩
 - group: 曾国藩家书
-- source: https://zh.wikisource.org/wiki/曾國藩家書
+- source: https://zh.wikisource.org/wiki/曾国藩家书
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -232,7 +232,7 @@ Total: 6
 
 - author: 曾国藩
 - group: 曾国藩家书
-- source: https://zh.wikisource.org/wiki/曾國藩家書
+- source: https://zh.wikisource.org/wiki/曾国藩家书
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -249,7 +249,7 @@ Total: 6
 
 - author: 曾国藩
 - group: 曾国藩家书
-- source: https://zh.wikisource.org/wiki/曾國藩家書
+- source: https://zh.wikisource.org/wiki/曾国藩家书
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -266,7 +266,7 @@ Total: 6
 
 - author: 曾国藩
 - group: 曾国藩家书
-- source: https://zh.wikisource.org/wiki/曾國藩家書
+- source: https://zh.wikisource.org/wiki/曾国藩家书
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -283,7 +283,7 @@ Total: 6
 
 - author: 曾国藩
 - group: 曾国藩家书
-- source: https://zh.wikisource.org/wiki/曾國藩家書
+- source: https://zh.wikisource.org/wiki/曾国藩家书
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 
@@ -300,7 +300,7 @@ Total: 6
 
 - author: 曾国藩
 - group: 曾国藩家书
-- source: https://zh.wikisource.org/wiki/曾國藩家書
+- source: https://zh.wikisource.org/wiki/曾国藩家书
 - license: Classical text; seed excerpt from public-domain tradition. Prefer Wikisource or other open textual witnesses for full corpus.
 - risk: Avoid importing modern annotations, translations, or edited editions unless their license is explicit.
 

@@ -5,7 +5,7 @@
 ## 第 1 轮：语料重建
 
 - 远端 `origin/main` 已同步，结果为 already up to date。
-- 重新抓取 raw：MIA 毛泽东、Wikisource 王阳明、Project Gutenberg《傳習錄》备选、古诗文网曾国藩家书备选。
+- 重新抓取 raw：MIA 毛泽东、Wikisource 王阳明、Project Gutenberg《传习录》备选、古诗文网曾国藩家书备选。
 - 重建 curated corpus：总计 531 条，毛泽东 326、王阳明 10、曾国藩 195。
 - `python scripts/validate_corpus.py --fail-on-noise` 通过。
 
@@ -45,5 +45,5 @@ python scripts/retrieve.py "通用 AI 长期不确定性下应追求速度、控
 ## 剩余边界
 
 - 曾国藩高质量全集级 Wikisource 子页不足，当前主力为古诗文网备选家书条目，已在 source risk note 中标注。
-- 王阳明 Wikisource 有若干页面缺失或 rate limit，本次以《傳習錄》三卷和若干明确作品为主，Project Gutenberg 作为全文备选。
+- 王阳明 Wikisource 有若干页面缺失或 rate limit，本次以《传习录》三卷和若干明确作品为主，Project Gutenberg 作为全文备选。
 - 若要进一步提高语义重排质量，可本地安装 `sentence-transformers` 并设置 `DAO_SKILL_EMBED_MODEL=BAAI/bge-m3`。
