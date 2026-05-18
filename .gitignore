@@ -9,8 +9,8 @@ __pycache__/
 .vscode/
 .idea/
 
-# Generated corpus can be large; commit intentionally after rights review.
-data/corpus/*.json
-data/corpus/*.md
-data/summary.json
-!data/corpus/.gitkeep
+# Raw fetches and local retrieval caches are reproducible and can be large.
+data/raw/
+data/cache/
+data/index/embeddings*
+data/index/models/

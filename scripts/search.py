@@ -1,75 +1,89 @@
 #!/usr/bin/env python3
-"""
-Smart search tool for Dao-Skill corpus.
-Supports multiple keywords and outputs matched context.
-"""
-import json
-import sys
+"""Backward-compatible keyword search wrapper for Dao-Skill hybrid retrieval."""
+from __future__ import annotations
+
 import argparse
+import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-CORPUS_FILE = ROOT / "data" / "corpus" / "all.json"
+from corpus_lib import ALL_CORPUS_FILE, configure_utf8_stdio, load_corpus, make_snippet, normalise_for_search
+from retrieve import retrieve
 
-def main():
-    parser = argparse.ArgumentParser(description="Smart search for Dao-Skill corpus")
-    parser.add_argument("keywords", nargs="+", help="Keywords to search for (supports multiple)")
-    parser.add_argument("--mode", choices=["and", "or"], default="or", help="Search mode: 'or' (match any) or 'and' (match all). Default is 'or'.")
-    parser.add_argument("--limit", type=int, default=15, help="Max results to show")
+
+def legacy_search(keywords: list[str], collection: str | None, limit: int, mode: str, corpus: Path) -> list[dict]:
+    terms = keywords
+    items = load_corpus(corpus)
+    if collection:
+        items = [item for item in items if item.get("collection") == collection]
+    results = []
+    for item in items:
+        haystack = normalise_for_search(
+            " ".join([item.get("collection", ""), item.get("group", ""), item.get("author", ""), item.get("work", ""), item.get("title", ""), item.get("text_clean", "")])
+        )
+        checks = [normalise_for_search(term) in haystack for term in terms]
+        if (mode == "and" and not all(checks)) or (mode == "or" and not any(checks)):
+            continue
+        score = sum(1 for ok in checks if ok) * 10
+        title_norm = normalise_for_search(item.get("title", ""))
+        score += sum(5 for term in terms if normalise_for_search(term) in title_norm)
+        results.append(
+            {
+                "collection": item.get("collection", ""),
+                "group": item.get("group", ""),
+                "author": item.get("author", ""),
+                "work": item.get("work", ""),
+                "title": item.get("title", ""),
+                "source": item.get("source_url", "Unknown"),
+                "snippet": make_snippet(item.get("text_clean", ""), terms),
+                "score": score,
+            }
+        )
+    results.sort(key=lambda item: item["score"], reverse=True)
+    return results[:limit]
+
+
+def main() -> None:
+    configure_utf8_stdio()
+    parser = argparse.ArgumentParser(description="Search Dao-Skill corpus")
+    parser.add_argument("keywords", nargs="+", help="Keywords or short query to search for")
+    parser.add_argument("--mode", choices=["and", "or"], default="or")
+    parser.add_argument("--limit", type=int, default=15)
+    parser.add_argument("--collection", choices=["maozedong", "wang_yangming", "zeng_guofan"])
+    parser.add_argument("--json", action="store_true")
+    parser.add_argument("--hybrid", action="store_true", help="Treat all keywords as one semantic query and use retrieve.py.")
+    parser.add_argument("--corpus", default=str(ALL_CORPUS_FILE))
     args = parser.parse_args()
 
-    if not CORPUS_FILE.exists():
-        print(f"Error: Corpus not found at {CORPUS_FILE}. Please run scraper first.", file=sys.stderr)
-        sys.exit(1)
-
-    try:
-        data = json.loads(CORPUS_FILE.read_text(encoding="utf-8"))
-    except Exception as e:
-        print(f"Error reading corpus: {e}", file=sys.stderr)
-        sys.exit(1)
-    
-    results = []
-    for item in data:
-        text = item.get("text", "")
-        title = item.get("title", "")
-        search_target = title + "\n" + text
-        
-        match = False
-        if args.mode == "and":
-            match = all(kw.lower() in search_target.lower() for kw in args.keywords)
+    corpus = Path(args.corpus)
+    if args.hybrid:
+        result = retrieve(" ".join(args.keywords), top_k=args.limit, require_collections=args.collection or "", corpus_path=corpus)
+        if args.json:
+            print(json.dumps(result["results"], ensure_ascii=False, indent=2))
         else:
-            match = any(kw.lower() in search_target.lower() for kw in args.keywords)
-            
-        if match:
-            # Extract a snippet around the first matched keyword
-            snippet = ""
-            for kw in args.keywords:
-                idx = text.lower().find(kw.lower())
-                if idx != -1:
-                    start = max(0, idx - 150)
-                    end = min(len(text), idx + 350)
-                    snippet = text[start:end].replace('\n', ' ')
-                    snippet = f"...{snippet}..."
-                    break
-            
-            if not snippet:
-                snippet = "Matched in title only."
+            from retrieve import print_text
 
-            results.append({
-                "title": title,
-                "source": item.get("source_url", "Unknown"),
-                "snippet": snippet
-            })
-
-    if not results:
-        print(f"No results found for keywords: {args.keywords}")
+            print_text(result)
         return
 
-    print(f"Found {len(results)} results (showing top {min(len(results), args.limit)}):\n")
-    for i, res in enumerate(results[:args.limit], 1):
-        print(f"[{i}] {res['title']}")
-        print(f"    Source: {res['source']}")
-        print(f"    Snippet: {res['snippet']}\n")
+    results = legacy_search(args.keywords, args.collection, args.limit, args.mode, corpus)
+    if args.json:
+        print(json.dumps(results, ensure_ascii=False, indent=2))
+        return
+
+    scope = f" in {args.collection}" if args.collection else ""
+    if not results:
+        print(f"No results found{scope} for keywords: {args.keywords}")
+        return
+    print(f"Found {len(results)} results{scope} (showing top {len(results)}):\n")
+    for index, result in enumerate(results, 1):
+        print(f"[{index}] {result['title']}")
+        print(f"    Group: {result['group']}")
+        print(f"    Author: {result['author']}")
+        print(f"    Collection: {result['collection']}")
+        print(f"    Work: {result['work']}")
+        print(f"    Source: {result['source']}")
+        print(f"    Snippet: {result['snippet']}\n")
+
 
 if __name__ == "__main__":
     main()

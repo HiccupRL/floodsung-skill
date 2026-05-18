@@ -10,10 +10,15 @@
 ## 2. 检索命令
 
 ```bash
-bash references/search_corpus.sh "实践"
-bash references/search_corpus.sh "知行合一"
-bash references/search_corpus.sh "勤俭"
+python scripts/retrieve.py "现实问题或比较问题" --require-collections all --top-k 12
+python scripts/search.py "实践" "调查" --collection maozedong
+python scripts/search.py "知行合一" "良知" --collection wang_yangming
+python scripts/search.py "自强" "戒傲" "勤" --collection zeng_guofan
 ```
+
+Windows / PowerShell 可用 `powershell -ExecutionPolicy Bypass -File references/search_corpus.ps1 ...`；类 Unix 环境可用 `bash references/search_corpus.sh ...`。
+
+现实问题优先使用 `retrieve.py`，因为它会执行“概念映射 + BM25/短语召回 + 三家覆盖约束”。`search.py` 保留给明确关键词或单家材料定位。
 
 ## 3. 回答模板
 
@@ -22,6 +27,7 @@ bash references/search_corpus.sh "勤俭"
 3. 语境解释：说明原文在解决什么问题。
 4. 跨文本比较：只比较可比维度，避免强行统一。
 5. 现代转化：给出可操作启发，并说明局限。
+6. 反例与边界：说明何时该判断不成立。
 
 ## 4. 引用要求
 

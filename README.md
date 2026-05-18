@@ -24,9 +24,36 @@
 ## 快速检索
 
 ```bash
-bash references/search_corpus.sh "知行合一" "事上磨炼"
-bash references/search_corpus.sh "实践" "调查研究"
-bash references/search_corpus.sh "修身" "有恒"
+python scripts/retrieve.py "当 AI 能替人生成判断和方案时，知和行的关系如何变化？" --require-collections all --top-k 12
+python scripts/search.py "知行合一" "事上磨炼" --collection wang_yangming
+python scripts/search.py "实践" "调查研究" --collection maozedong
+python scripts/search.py "修身" "有恒" --collection zeng_guofan
+```
+
+Windows / PowerShell 可用：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File references/search_corpus.ps1 "实践" "调查研究" --collection maozedong
+```
+
+类 Unix 环境也可继续使用 `bash references/search_corpus.sh ...`。
+
+## 语料构建
+
+```bash
+python scripts/fetch_corpus.py --source all --output data/raw
+python scripts/build_corpus.py --input data/raw --output data/corpus
+python scripts/validate_corpus.py --fail-on-noise
+python scripts/build_indexes.py --corpus data/corpus/all.json
+```
+
+当前 curated corpus 生成 531 条：毛泽东 326、王阳明 10、曾国藩 195。raw HTML/缓存不提交，`data/corpus/`、`data/summary.json` 和 `references/*index.md` 可提交。
+
+可选 embedding 重排：
+
+```powershell
+$env:DAO_SKILL_EMBED_MODEL="BAAI/bge-m3"
+$env:DAO_SKILL_DISABLE_EMBEDDINGS="1"  # 强制只用本地 BM25/概念检索
 ```
 
 ## 目录结构
@@ -35,7 +62,7 @@ bash references/search_corpus.sh "修身" "有恒"
 | --- | --- |
 | `SKILL.md` | Skill 入口说明：材料范围、回答原则、引用要求。 |
 | `data/corpus/` | 本地语料数据。 |
-| `references/` | 来源索引、概念索引、摘录索引和检索脚本。 |
+| `references/` | 来源索引、概念索引、摘录索引、混合检索流程、回答框架、AI/未来映射框架和检索脚本。 |
 | `config/sources.yaml` | 语料来源白名单与许可说明。 |
 | `scripts/` | 辅助脚本。 |
 

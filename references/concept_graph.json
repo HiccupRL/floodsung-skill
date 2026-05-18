@@ -1,0 +1,75 @@
+{
+  "concepts": [
+    {
+      "id": "practice_verification",
+      "label": "实践验证",
+      "aliases": ["实践", "验证", "落地", "试错", "反馈", "行动", "实践检验", "实践标准"],
+      "collections": {
+        "maozedong": ["实践", "认识", "调查", "检验", "真理", "具体情况", "改造"],
+        "wang_yangming": ["知行合一", "事上磨炼", "实行", "真知", "良知", "格物"],
+        "zeng_guofan": ["有恒", "课程", "勤", "自强", "积劳", "日课"]
+      }
+    },
+    {
+      "id": "knowledge_action",
+      "label": "知行关系",
+      "aliases": ["知行", "判断", "方案", "知道", "做到", "认知", "执行"],
+      "collections": {
+        "maozedong": ["认识", "实践", "调查研究", "主观", "客观"],
+        "wang_yangming": ["知行合一", "知是行之始", "行是知之成", "真知", "私欲"],
+        "zeng_guofan": ["有恒", "专一", "功课", "自修", "勤劳"]
+      }
+    },
+    {
+      "id": "governance_power",
+      "label": "治理与权力",
+      "aliases": ["治理", "组织", "决策", "官僚", "权力", "制度", "管理", "技术官僚"],
+      "collections": {
+        "maozedong": ["群众", "人民", "矛盾", "调查", "路线", "组织"],
+        "wang_yangming": ["良知", "私欲", "心即理", "格物", "治民", "义"],
+        "zeng_guofan": ["用人", "人才", "谦", "勤", "骄", "处事", "爱民"]
+      }
+    },
+    {
+      "id": "risk_uncertainty",
+      "label": "风险与不确定性",
+      "aliases": ["风险", "不确定", "长期", "未来", "速度", "等待", "形势", "危机", "控制"],
+      "collections": {
+        "maozedong": ["持久战", "阶段", "保存", "主要矛盾", "形势", "具体情况"],
+        "wang_yangming": ["事上磨炼", "动静", "良知", "随事", "勿助", "不离"],
+        "zeng_guofan": ["有恒", "戒傲惰", "自强", "稳", "慎", "积劳", "不问成名"]
+      }
+    },
+    {
+      "id": "self_cultivation",
+      "label": "修身与自我约束",
+      "aliases": ["修身", "自律", "心性", "克己", "品格", "慎独", "欲望"],
+      "collections": {
+        "maozedong": ["改造", "学习", "主观主义", "实事求是", "作风"],
+        "wang_yangming": ["去私欲", "存天理", "致良知", "慎独", "诚意"],
+        "zeng_guofan": ["戒傲", "戒惰", "清慎勤", "自修", "谦", "勤俭"]
+      }
+    },
+    {
+      "id": "learning_method",
+      "label": "学习与研究方法",
+      "aliases": ["学习", "研究", "读书", "方法", "理论", "思辨", "模型"],
+      "collections": {
+        "maozedong": ["调查研究", "本本主义", "实践论", "矛盾论", "具体分析"],
+        "wang_yangming": ["学问思辨", "格物", "致知", "随事体认", "博学审问慎思明辨笃行"],
+        "zeng_guofan": ["读书", "课程", "有恒", "专集", "学问", "日课"]
+      }
+    }
+  ],
+  "question_triggers": {
+    "AI": [],
+    "人工智能": [],
+    "未来": ["risk_uncertainty", "practice_verification"],
+    "组织": ["governance_power", "practice_verification"],
+    "决策": ["governance_power"],
+    "判断": ["knowledge_action", "practice_verification"],
+    "不确定": ["risk_uncertainty"],
+    "速度": ["risk_uncertainty"],
+    "风险": ["risk_uncertainty"]
+  }
+}

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Smart search wrapper for Dao-Skill corpus. 
-# Usage: bash references/search_corpus.sh "keyword1" "keyword2"
+# Smart search wrapper for Dao-Skill corpus.
+# Usage: bash references/search_corpus.sh "keyword1" "keyword2" [--collection maozedong|wang_yangming|zeng_guofan] [--hybrid]
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -11,5 +11,8 @@ if [ "$#" -eq 0 ]; then
     exit 1
 fi
 
-python3 scripts/search.py "$@"
-
+if command -v python3 >/dev/null 2>&1; then
+    python3 scripts/search.py "$@"
+else
+    python scripts/search.py "$@"
+fi

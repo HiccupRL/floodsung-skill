@@ -1,18 +1,40 @@
 {
-  "generated_at": "2026-05-15T07:37:09+00:00",
-  "total_items": 393,
+  "generated_at": "2026-05-18T16:54:02.515890+00:00",
+  "total_items": 531,
   "counts_by_collection": {
-    "wang_yangming": 44,
-    "zeng_guofan": 349
+    "maozedong": 326,
+    "wang_yangming": 10,
+    "zeng_guofan": 195
   },
   "source_ids": [
-    "maozedong_marxists_cn",
+    "maozedong_mia",
+    "wang_yangming_gutenberg_fallback",
     "wang_yangming_wikisource",
-    "zeng_guofan_wikisource",
-    "gmw_maozedong",
-    "gushiwen_wang_yangming",
-    "gushiwen_zeng_guofan"
+    "zeng_guofan_gushiwen_fallback"
   ],
-  "source_errors": [],
-  "note": "Each item preserves source_url, license_note, and risk_note. Review rights before redistribution."
+  "rejected_items": 8,
+  "rejected_by_flag": {
+    "title_excluded": 1,
+    "title_required_missing": 5,
+    "too_short": 2
+  },
+  "note": "Curated corpus built from book-level allowlisted sources. Raw fetches are reproducible and intentionally ignored by git.",
+  "source_errors": [
+    {
+      "source_id": "wang_yangming_wikisource",
+      "error": "諭俗文: missing"
+    },
+    {
+      "source_id": "wang_yangming_wikisource",
+      "error": "鄉約告諭: missing"
+    },
+    {
+      "source_id": "wang_yangming_wikisource",
+      "error": "告諭: missing"
+    },
+    {
+      "source_id": "wang_yangming_wikisource",
+      "error": "平浰頭碑: request failed after retries, likely rate limited"
+    }
+  ]
 }
