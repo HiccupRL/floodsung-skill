@@ -1,6 +1,6 @@
 # Chinese Thought Corpus (Dao-Skill)
 
-![Dao-Skill cover: ink-wash mountains, bamboo, circle, and seal marks](assets/dao-skill-cover.png)
+![Dao-Skill cover: ink-wash landscape with field notes, bamboo, letters, concept graph, and scholar desk](assets/dao-skill-cover.png)
 
 > 知而不行，是为未知。
 
